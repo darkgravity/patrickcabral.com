@@ -1,5 +1,7 @@
 # Patrick Cabral portfolio
 
+**[Open the live website](https://darkgravity.github.io/patrickcabral.com/)** · [Portfolio](https://darkgravity.github.io/patrickcabral.com/portfolio/index.html) · [Deployment status](https://github.com/darkgravity/patrickcabral.com/actions/workflows/pages.yml)
+
 An elegant, responsive static artist portfolio, designed around layered paper ornament and Cormorant Garamond typography. Starbucks Reserve is the featured project. Separate Home, Portfolio, About, and Contact pages lead to 64 dedicated project pages using 99 usable original images, with related views grouped together. The one blank image is excluded.
 
 ## Preview
@@ -11,7 +13,7 @@ The launcher works regardless of the current terminal directory and does not reu
 To launch from Terminal instead:
 
 ```sh
-python3 "/Users/camycabral/Desktop/patrickcabral.com/scripts/preview.py"
+python3 scripts/preview.py
 ```
 
 After moving the project, use the new location of `scripts/preview.py`, or double-click the launcher. To verify paths without starting a server, run `python3 scripts/preview.py --check` from the project folder.
@@ -77,7 +79,7 @@ The preparation script uses macOS `sips`, preserves the original files, and prod
 
 ## Verification
 
-Automated interaction tests and static checks cover theme behaviour, storage failure, filters, lightbox controls, image coverage, and local links. Local HTTP preview could not be started in the restricted execution environment, and the in-app browser blocks file URLs. A visual browser pass on desktop/mobile and a live email delivery test remain to be completed after opening locally or publishing. No deployment is claimed.
+Automated interaction tests and static checks cover theme behaviour, storage failure, filters, lightbox controls, image coverage, and local links. Local HTTP preview could not be started in the restricted execution environment, and the in-app browser blocks file URLs. GitHub Pages deployment completed successfully on November 14, 2026. A visual browser pass on desktop/mobile and a live email delivery test remain to be completed.
 
 ## Content sources
 
