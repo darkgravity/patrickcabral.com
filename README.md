@@ -1,8 +1,8 @@
 # Patrick Cabral portfolio
 
-**[Open the live website](https://darkgravity.github.io/patrickcabral.com/)** · [Portfolio](https://darkgravity.github.io/patrickcabral.com/portfolio/index.html) · [Deployment status](https://github.com/darkgravity/patrickcabral.com/actions/workflows/pages.yml)
+**[Open the live website](https://darkgravity.github.io/patrickcabral.com/)** · [Works](https://darkgravity.github.io/patrickcabral.com/portfolio/index.html) · [Lab](https://darkgravity.github.io/patrickcabral.com/lab/index.html) · [Deployment status](https://github.com/darkgravity/patrickcabral.com/actions/workflows/pages.yml)
 
-An elegant, responsive static artist portfolio, designed around layered paper ornament and Cormorant Garamond typography. Starbucks Reserve is the featured project. Separate Home, Portfolio, About, and Contact pages lead to 64 dedicated project pages using 99 usable original images, with related views grouped together. The one blank image is excluded.
+An elegant, responsive static artist portfolio, designed around layered paper ornament and Cormorant Garamond typography. Starbucks Reserve is the featured project. Separate Home, Works, Lab, About, and Contact pages lead to 64 dedicated project pages using 99 usable original images, with related views grouped together. Works contains 52 sculpture projects; Lab contains 12 digital experiments. The one blank image is excluded.
 
 ## Preview
 
@@ -73,7 +73,7 @@ The preparation script uses macOS `sips`, preserves the original files, and prod
 
 - Automatic theme follows the visitor's system preference. The theme button cycles Auto, Light, Dark and remembers their selection. No location access is required.
 - Desktop and mobile layouts, keyboard-visible focus, reduced-motion support, and labelled controls.
-- Real individual project URLs, not modal-only project content.
+- Real individual project URLs, with breadcrumbs and adjacent-project navigation kept within Works or Lab.
 - Full-size image viewer with keyboard navigation, focus restoration, and close controls.
 - All original artwork photos are preserved as photographs. The decorative corner ornament is a separate generated interface asset, not a portfolio work.
 

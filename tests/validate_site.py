@@ -18,6 +18,8 @@ class Page(HTMLParser):
         self.labels = set()
         self.fields = {}
         self.forms = []
+        self.links = []
+        self.stack = []
         self.feed(path.read_text())
 
     def handle_starttag(self, tag, attrs):
@@ -36,6 +38,26 @@ class Page(HTMLParser):
             self.fields[attrs['id']] = attrs
         if tag == 'form':
             self.forms.append(attrs)
+        if tag == 'a':
+            self.links.append({'attrs': attrs, 'parents': self.stack[:], 'text': ''})
+        if tag not in {'area', 'base', 'br', 'col', 'embed', 'hr', 'img', 'input', 'link', 'meta', 'param', 'source', 'track', 'wbr'}:
+            self.stack.append((tag, attrs))
+
+    def handle_endtag(self, tag):
+        for index in range(len(self.stack) - 1, -1, -1):
+            if self.stack[index][0] == tag:
+                del self.stack[index:]
+                break
+
+    def handle_data(self, data):
+        if self.links and any(tag == 'a' for tag, _ in self.stack):
+            self.links[-1]['text'] += data
+
+    def links_within(self, *, element_id=None, css_class=None):
+        return [link for link in self.links if any(
+            (element_id and attrs.get('id') == element_id)
+            or (css_class and css_class in attrs.get('class', '').split())
+            for _, attrs in link['parents'])]
 
 
 projects = json.loads((ROOT / 'src/projects.json').read_text())
@@ -83,7 +105,7 @@ for path, page in pages.items():
             assert unquote(url.fragment) in pages[target].ids, f'Broken fragment in {path.relative_to(DOCS)}: {reference}'
         reference_count += 1
 
-for route in ['portfolio', 'about', 'contact']:
+for route in ['portfolio', 'lab', 'about', 'contact']:
     assert (DOCS / route / 'index.html').resolve() in pages, f'Missing inner page: {route}'
 for path, page in pages.items():
     for reference in page.references:
@@ -92,6 +114,48 @@ for path, page in pages.items():
             assert not url.path.endswith('/'), f'Use explicit index.html for offline navigation: {reference}'
 
 home = pages[(DOCS / 'index.html').resolve()]
+collections = {
+    'portfolio': {p['slug'] for p in projects if p['category'] != 'experiments'},
+    'lab': {p['slug'] for p in projects if p['category'] == 'experiments'},
+}
+assert len(collections['portfolio']) == 52 and len(collections['lab']) == 12
+
+
+def destination(page, link):
+    return (page.path.parent / urlsplit(link['attrs']['href']).path).resolve()
+
+
+for page in pages.values():
+    if 'site-nav' not in page.ids:
+        assert page.path == DOCS / 'work/index.html', f'Missing main navigation: {page.path}'
+        continue
+    nav = page.links_within(element_id='site-nav')
+    for label, route in [('Works', 'portfolio'), ('Lab', 'lab')]:
+        matching = [link for link in nav if link['text'] == label]
+        assert len(matching) == 1, f'Missing or duplicate {label} navigation on {page.path}'
+        assert destination(page, matching[0]) == (DOCS / route / 'index.html').resolve()
+
+for route, members in collections.items():
+    page = pages[(DOCS / route / 'index.html').resolve()]
+    cards = page.links_within(css_class='work-card')
+    assert len(cards) == len(members), f'Incorrect card count on {route}'
+    assert {destination(page, link).parent.name for link in cards} == members, f'Incorrect projects on {route}'
+    for slug in members:
+        project_page = pages[(DOCS / 'projects' / slug / 'index.html').resolve()]
+        breadcrumb = project_page.links_within(css_class='breadcrumb')
+        assert len(breadcrumb) == 1 and destination(project_page, breadcrumb[0]) == page.path.resolve(), f'Wrong collection breadcrumb: {slug}'
+        current = [link for link in project_page.links_within(element_id='site-nav') if link['attrs'].get('aria-current') == 'page']
+        assert len(current) == 1 and destination(project_page, current[0]) == page.path.resolve(), f'Wrong active collection: {slug}'
+        adjacent = project_page.links_within(css_class='project-nav')
+        assert len(adjacent) == 2 and all(destination(project_page, link).parent.name in members for link in adjacent), f'Adjacent projects cross collections: {slug}'
+
+selected = home.links_within(element_id='selected-work')
+selected_projects = [destination(home, link).parent.name for link in selected if '/projects/' in str(destination(home, link))]
+assert selected_projects and set(selected_projects) <= collections['portfolio'], 'Selected works must contain sculptures only'
+lab_teaser = home.links_within(element_id='lab')
+assert any(destination(home, link) == (DOCS / 'lab/index.html').resolve() for link in lab_teaser), 'Homepage needs a separate Lab link'
+assert any(destination(home, link).parent.name in collections['lab'] for link in lab_teaser), 'Homepage needs a Lab project preview'
+
 assert any(form.get('action') == 'https://formsubmit.co/peacabral@gmail.com' and form.get('method', '').lower() == 'post' for form in home.forms), 'Native contact form endpoint missing'
 for field_id in ('contact-name', 'contact-email', 'contact-message'):
     assert field_id in home.labels, f'Missing contact label: {field_id}'
