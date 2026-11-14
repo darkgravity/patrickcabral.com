@@ -1,0 +1,902 @@
+[
+  {
+    "thumb_width": 720,
+    "id": 0,
+    "source": "art/1.JPG",
+    "thumb": "assets/art/000-thumb.jpg",
+    "full": "assets/art/000-full.jpg",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "thumb_width": 540,
+    "id": 1,
+    "source": "art/1.PNG",
+    "thumb": "assets/art/001-thumb.jpg",
+    "full": "assets/art/001-full.jpg",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 2,
+    "source": "art/1.TIF",
+    "thumb": "assets/art/002-thumb.png",
+    "full": "assets/art/002-full.png",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 3,
+    "source": "art/2.JPG",
+    "thumb": "assets/art/003-thumb.jpg",
+    "full": "assets/art/003-full.jpg",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "thumb_width": 540,
+    "id": 4,
+    "source": "art/2.PNG",
+    "thumb": "assets/art/004-thumb.jpg",
+    "full": "assets/art/004-full.jpg",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 5,
+    "source": "art/2.TIF",
+    "thumb": "assets/art/005-thumb.png",
+    "full": "assets/art/005-full.png",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 6,
+    "source": "art/3.JPG",
+    "thumb": "assets/art/006-thumb.jpg",
+    "full": "assets/art/006-full.jpg",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "thumb_width": 540,
+    "id": 7,
+    "source": "art/3.PNG",
+    "thumb": "assets/art/007-thumb.jpg",
+    "full": "assets/art/007-full.jpg",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 8,
+    "source": "art/346511.png",
+    "thumb": "assets/art/008-thumb.jpg",
+    "full": "assets/art/008-full.jpg",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "thumb_width": 576,
+    "id": 9,
+    "source": "art/346513.png",
+    "thumb": "assets/art/009-thumb.jpg",
+    "full": "assets/art/009-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 10,
+    "source": "art/346521.png",
+    "thumb": "assets/art/010-thumb.jpg",
+    "full": "assets/art/010-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 11,
+    "source": "art/346535.png",
+    "thumb": "assets/art/011-thumb.jpg",
+    "full": "assets/art/011-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 12,
+    "source": "art/346539.png",
+    "thumb": "assets/art/012-thumb.jpg",
+    "full": "assets/art/012-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 13,
+    "source": "art/346567.png",
+    "thumb": "assets/art/013-thumb.jpg",
+    "full": "assets/art/013-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 14,
+    "source": "art/346579.png",
+    "thumb": "assets/art/014-thumb.jpg",
+    "full": "assets/art/014-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 15,
+    "source": "art/346591.png",
+    "thumb": "assets/art/015-thumb.jpg",
+    "full": "assets/art/015-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 16,
+    "source": "art/346607.png",
+    "thumb": "assets/art/016-thumb.jpg",
+    "full": "assets/art/016-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 17,
+    "source": "art/346609.png",
+    "thumb": "assets/art/017-thumb.jpg",
+    "full": "assets/art/017-full.jpg",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "thumb_width": 576,
+    "id": 18,
+    "source": "art/346617.png",
+    "thumb": "assets/art/018-thumb.jpg",
+    "full": "assets/art/018-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 19,
+    "source": "art/346625.png",
+    "thumb": "assets/art/019-thumb.jpg",
+    "full": "assets/art/019-full.jpg",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "thumb_width": 539,
+    "id": 20,
+    "source": "art/346637.png",
+    "thumb": "assets/art/020-thumb.jpg",
+    "full": "assets/art/020-full.jpg",
+    "width": 1499,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 21,
+    "source": "art/346641.png",
+    "thumb": "assets/art/021-thumb.jpg",
+    "full": "assets/art/021-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 22,
+    "source": "art/346657.png",
+    "thumb": "assets/art/022-thumb.jpg",
+    "full": "assets/art/022-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 23,
+    "source": "art/346665.png",
+    "thumb": "assets/art/023-thumb.jpg",
+    "full": "assets/art/023-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 24,
+    "source": "art/37BA6A9B-286F-44D5-BD76-F4716D441AEC.JPG",
+    "thumb": "assets/art/024-thumb.jpg",
+    "full": "assets/art/024-full.jpg",
+    "width": 2000,
+    "height": 1526
+  },
+  {
+    "thumb_width": 720,
+    "id": 25,
+    "source": "art/4.JPG",
+    "thumb": "assets/art/025-thumb.jpg",
+    "full": "assets/art/025-full.jpg",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "thumb_width": 540,
+    "id": 26,
+    "source": "art/4.PNG",
+    "thumb": "assets/art/026-thumb.jpg",
+    "full": "assets/art/026-full.jpg",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 27,
+    "source": "art/43F38F30-18DE-411F-93AC-60D9A4E7A7B9-1506-000004E41B031287.PNG",
+    "thumb": "assets/art/027-thumb.jpg",
+    "full": "assets/art/027-full.jpg",
+    "width": 1601,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 28,
+    "source": "art/6E639DCE-0122-4383-B2F2-D2230F78BC4C-1506-000004E34C1C8C08.PNG",
+    "thumb": "assets/art/028-thumb.jpg",
+    "full": "assets/art/028-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 29,
+    "source": "art/B5F694F0-27F0-4D44-A7CB-C90408FCDF17-1506-000004E3B1459CE3.PNG",
+    "thumb": "assets/art/029-thumb.jpg",
+    "full": "assets/art/029-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 30,
+    "source": "art/D359D010-A769-4E1F-855B-C2118B3A2224.JPG",
+    "thumb": "assets/art/030-thumb.jpg",
+    "full": "assets/art/030-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 31,
+    "source": "art/DSCF9162.TIF",
+    "thumb": "assets/art/031-thumb.png",
+    "full": "assets/art/031-full.png",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "thumb_width": 720,
+    "id": 32,
+    "source": "art/IMG_0131.jpg",
+    "thumb": "assets/art/032-thumb.jpg",
+    "full": "assets/art/032-full.jpg",
+    "width": 2000,
+    "height": 1149
+  },
+  {
+    "thumb_width": 720,
+    "id": 33,
+    "source": "art/IMG_0196.PNG",
+    "thumb": "assets/art/033-thumb.jpg",
+    "full": "assets/art/033-full.jpg",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "thumb_width": 720,
+    "id": 34,
+    "source": "art/IMG_0204.JPG",
+    "thumb": "assets/art/034-thumb.jpg",
+    "full": "assets/art/034-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 35,
+    "source": "art/IMG_0511.PNG",
+    "thumb": "assets/art/035-thumb.jpg",
+    "full": "assets/art/035-full.jpg",
+    "width": 2000,
+    "height": 1333
+  },
+  {
+    "thumb_width": 576,
+    "id": 36,
+    "source": "art/IMG_0516.TIF",
+    "thumb": "assets/art/036-thumb.png",
+    "full": "assets/art/036-full.png",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 540,
+    "id": 37,
+    "source": "art/IMG_0783.PNG",
+    "thumb": "assets/art/037-thumb.jpg",
+    "full": "assets/art/037-full.jpg",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "thumb_width": 684,
+    "id": 38,
+    "source": "art/IMG_0972.PNG",
+    "thumb": "assets/art/038-thumb.jpg",
+    "full": "assets/art/038-full.jpg",
+    "width": 1899,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 39,
+    "source": "art/IMG_1189.PNG",
+    "thumb": "assets/art/039-thumb.jpg",
+    "full": "assets/art/039-full.jpg",
+    "width": 2000,
+    "height": 1000
+  },
+  {
+    "thumb_width": 720,
+    "id": 40,
+    "source": "art/IMG_1202.PNG",
+    "thumb": "assets/art/040-thumb.jpg",
+    "full": "assets/art/040-full.jpg",
+    "width": 2000,
+    "height": 902
+  },
+  {
+    "thumb_width": 720,
+    "id": 41,
+    "source": "art/IMG_1260.TIF",
+    "thumb": "assets/art/041-thumb.png",
+    "full": "assets/art/041-full.png",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 42,
+    "source": "art/IMG_1265.TIF",
+    "thumb": "assets/art/042-thumb.png",
+    "full": "assets/art/042-full.png",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 522,
+    "id": 43,
+    "source": "art/IMG_1269.PNG",
+    "thumb": "assets/art/043-thumb.jpg",
+    "full": "assets/art/043-full.jpg",
+    "width": 1451,
+    "height": 2000
+  },
+  {
+    "thumb_width": 528,
+    "id": 44,
+    "source": "art/IMG_1270.PNG",
+    "thumb": "assets/art/044-thumb.jpg",
+    "full": "assets/art/044-full.jpg",
+    "width": 1468,
+    "height": 2000
+  },
+  {
+    "thumb_width": 567,
+    "id": 45,
+    "source": "art/IMG_1332.PNG",
+    "thumb": "assets/art/045-thumb.jpg",
+    "full": "assets/art/045-full.jpg",
+    "width": 1574,
+    "height": 2000
+  },
+  {
+    "thumb_width": 540,
+    "id": 46,
+    "source": "art/IMG_1385.TIF",
+    "thumb": "assets/art/046-thumb.png",
+    "full": "assets/art/046-full.png",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 47,
+    "source": "art/IMG_1419.TIF",
+    "thumb": "assets/art/047-thumb.png",
+    "full": "assets/art/047-full.png",
+    "width": 2000,
+    "height": 1000
+  },
+  {
+    "thumb_width": 720,
+    "id": 48,
+    "source": "art/IMG_1617.PNG",
+    "thumb": "assets/art/048-thumb.jpg",
+    "full": "assets/art/048-full.jpg",
+    "width": 2000,
+    "height": 1846
+  },
+  {
+    "thumb_width": 720,
+    "id": 49,
+    "source": "art/IMG_1618.PNG",
+    "thumb": "assets/art/049-thumb.jpg",
+    "full": "assets/art/049-full.jpg",
+    "width": 2000,
+    "height": 1358
+  },
+  {
+    "thumb_width": 720,
+    "id": 50,
+    "source": "art/IMG_1619.PNG",
+    "thumb": "assets/art/050-thumb.jpg",
+    "full": "assets/art/050-full.jpg",
+    "width": 2000,
+    "height": 1992
+  },
+  {
+    "thumb_width": 714,
+    "id": 51,
+    "source": "art/IMG_1620.PNG",
+    "thumb": "assets/art/051-thumb.jpg",
+    "full": "assets/art/051-full.jpg",
+    "width": 1984,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 52,
+    "source": "art/IMG_1621.PNG",
+    "thumb": "assets/art/052-thumb.jpg",
+    "full": "assets/art/052-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 413,
+    "id": 53,
+    "source": "art/IMG_1622.PNG",
+    "thumb": "assets/art/053-thumb.jpg",
+    "full": "assets/art/053-full.jpg",
+    "width": 1149,
+    "height": 2000
+  },
+  {
+    "thumb_width": 413,
+    "id": 54,
+    "source": "art/IMG_1623.PNG",
+    "thumb": "assets/art/054-thumb.jpg",
+    "full": "assets/art/054-full.jpg",
+    "width": 1149,
+    "height": 2000
+  },
+  {
+    "thumb_width": 413,
+    "id": 55,
+    "source": "art/IMG_1624.PNG",
+    "thumb": "assets/art/055-thumb.jpg",
+    "full": "assets/art/055-full.jpg",
+    "width": 1149,
+    "height": 2000
+  },
+  {
+    "thumb_width": 528,
+    "id": 56,
+    "source": "art/IMG_1625.PNG",
+    "thumb": "assets/art/056-thumb.jpg",
+    "full": "assets/art/056-full.jpg",
+    "width": 1468,
+    "height": 2000
+  },
+  {
+    "thumb_width": 519,
+    "id": 57,
+    "source": "art/IMG_1627.PNG",
+    "thumb": "assets/art/057-thumb.jpg",
+    "full": "assets/art/057-full.jpg",
+    "width": 1441,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 58,
+    "source": "art/IMG_1628.PNG",
+    "thumb": "assets/art/058-thumb.jpg",
+    "full": "assets/art/058-full.jpg",
+    "width": 2000,
+    "height": 1000
+  },
+  {
+    "thumb_width": 603,
+    "id": 59,
+    "source": "art/IMG_1634.PNG",
+    "thumb": "assets/art/059-thumb.jpg",
+    "full": "assets/art/059-full.jpg",
+    "width": 1675,
+    "height": 2000
+  },
+  {
+    "thumb_width": 603,
+    "id": 60,
+    "source": "art/IMG_1635.PNG",
+    "thumb": "assets/art/060-thumb.jpg",
+    "full": "assets/art/060-full.jpg",
+    "width": 1675,
+    "height": 2000
+  },
+  {
+    "thumb_width": 634,
+    "id": 61,
+    "source": "art/IMG_1636.PNG",
+    "thumb": "assets/art/061-thumb.jpg",
+    "full": "assets/art/061-full.jpg",
+    "width": 1760,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 62,
+    "source": "art/IMG_1637.PNG",
+    "thumb": "assets/art/062-thumb.jpg",
+    "full": "assets/art/062-full.jpg",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "thumb_width": 720,
+    "id": 63,
+    "source": "art/IMG_1638.PNG",
+    "thumb": "assets/art/063-thumb.jpg",
+    "full": "assets/art/063-full.jpg",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "thumb_width": 614,
+    "id": 64,
+    "source": "art/IMG_1639.PNG",
+    "thumb": "assets/art/064-thumb.jpg",
+    "full": "assets/art/064-full.jpg",
+    "width": 1707,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 65,
+    "source": "art/IMG_1644.PNG",
+    "thumb": "assets/art/065-thumb.jpg",
+    "full": "assets/art/065-full.jpg",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "thumb_width": 503,
+    "id": 66,
+    "source": "art/IMG_1645.JPG",
+    "thumb": "assets/art/066-thumb.jpg",
+    "full": "assets/art/066-full.jpg",
+    "width": 1398,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 67,
+    "source": "art/IMG_1744.PNG",
+    "thumb": "assets/art/067-thumb.jpg",
+    "full": "assets/art/067-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 68,
+    "source": "art/IMG_1745.PNG",
+    "thumb": "assets/art/068-thumb.jpg",
+    "full": "assets/art/068-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 69,
+    "source": "art/IMG_1746.PNG",
+    "thumb": "assets/art/069-thumb.jpg",
+    "full": "assets/art/069-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 598,
+    "id": 70,
+    "source": "art/IMG_1756.PNG",
+    "thumb": "assets/art/070-thumb.jpg",
+    "full": "assets/art/070-full.jpg",
+    "width": 1663,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 71,
+    "source": "art/IMG_1812.TIF",
+    "thumb": "assets/art/071-thumb.png",
+    "full": "assets/art/071-full.png",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 72,
+    "source": "art/IMG_1835.PNG",
+    "thumb": "assets/art/072-thumb.jpg",
+    "full": "assets/art/072-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 73,
+    "source": "art/IMG_1838.PNG",
+    "thumb": "assets/art/073-thumb.jpg",
+    "full": "assets/art/073-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 74,
+    "source": "art/artist.JPG",
+    "thumb": "assets/art/074-thumb.jpg",
+    "full": "assets/art/074-full.jpg",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "thumb_width": 720,
+    "id": 75,
+    "source": "art/bee_large 2.PNG",
+    "thumb": "assets/art/075-thumb.jpg",
+    "full": "assets/art/075-full.jpg",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "thumb_width": 720,
+    "id": 76,
+    "source": "art/bee_large.png",
+    "thumb": "assets/art/076-thumb.jpg",
+    "full": "assets/art/076-full.jpg",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "thumb_width": 720,
+    "id": 77,
+    "source": "art/cat_final.PNG",
+    "thumb": "assets/art/077-thumb.jpg",
+    "full": "assets/art/077-full.jpg",
+    "width": 2000,
+    "height": 1979
+  },
+  {
+    "thumb_width": 570,
+    "id": 78,
+    "source": "art/cha_longBig.PNG",
+    "thumb": "assets/art/078-thumb.jpg",
+    "full": "assets/art/078-full.jpg",
+    "width": 1583,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 79,
+    "source": "art/chair.JPG",
+    "thumb": "assets/art/079-thumb.jpg",
+    "full": "assets/art/079-full.jpg",
+    "width": 2000,
+    "height": 2000
+  },
+  {
+    "thumb_width": 540,
+    "id": 80,
+    "source": "art/cockfight.TIF",
+    "thumb": "assets/art/080-thumb.png",
+    "full": "assets/art/080-full.png",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "thumb_width": 587,
+    "id": 81,
+    "source": "art/colored.PNG",
+    "thumb": "assets/art/081-thumb.jpg",
+    "full": "assets/art/081-full.jpg",
+    "width": 1630,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 82,
+    "source": "art/detail1.JPG",
+    "thumb": "assets/art/082-thumb.jpg",
+    "full": "assets/art/082-full.jpg",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "thumb_width": 720,
+    "id": 83,
+    "source": "art/detail2.JPG",
+    "thumb": "assets/art/083-thumb.jpg",
+    "full": "assets/art/083-full.jpg",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "thumb_width": 720,
+    "id": 84,
+    "source": "art/detail3.JPG",
+    "thumb": "assets/art/084-thumb.jpg",
+    "full": "assets/art/084-full.jpg",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "thumb_width": 720,
+    "id": 85,
+    "source": "art/detail4.JPG",
+    "thumb": "assets/art/085-thumb.jpg",
+    "full": "assets/art/085-full.jpg",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "thumb_width": 480,
+    "id": 86,
+    "source": "art/detail5.JPG",
+    "thumb": "assets/art/086-thumb.jpg",
+    "full": "assets/art/086-full.jpg",
+    "width": 1334,
+    "height": 2000
+  },
+  {
+    "thumb_width": 480,
+    "id": 87,
+    "source": "art/detail6.JPG",
+    "thumb": "assets/art/087-thumb.jpg",
+    "full": "assets/art/087-full.jpg",
+    "width": 1334,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 88,
+    "source": "art/detail7.JPG",
+    "thumb": "assets/art/088-thumb.jpg",
+    "full": "assets/art/088-full.jpg",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "thumb_width": 720,
+    "id": 89,
+    "source": "art/detail8.JPG",
+    "thumb": "assets/art/089-thumb.jpg",
+    "full": "assets/art/089-full.jpg",
+    "width": 2000,
+    "height": 1334
+  },
+  {
+    "thumb_width": 576,
+    "id": 90,
+    "source": "art/dhole.JPG",
+    "thumb": "assets/art/090-thumb.jpg",
+    "full": "assets/art/090-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 91,
+    "source": "art/dragon.PNG",
+    "thumb": "assets/art/091-thumb.jpg",
+    "full": "assets/art/091-full.jpg",
+    "width": 2000,
+    "height": 1000
+  },
+  {
+    "thumb_width": 540,
+    "id": 92,
+    "source": "art/eagle.TIF",
+    "thumb": "assets/art/092-thumb.png",
+    "full": "assets/art/092-full.png",
+    "width": 1500,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 93,
+    "source": "art/elephant 2.JPG",
+    "thumb": "assets/art/093-thumb.jpg",
+    "full": "assets/art/093-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 480,
+    "id": 94,
+    "source": "art/elephant.JPG",
+    "thumb": "assets/art/094-thumb.jpg",
+    "full": "assets/art/094-full.jpg",
+    "width": 1334,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 95,
+    "source": "art/final.PNG",
+    "thumb": "assets/art/095-thumb.jpg",
+    "full": "assets/art/095-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 576,
+    "id": 96,
+    "source": "art/gorilla.JPG",
+    "thumb": "assets/art/096-thumb.jpg",
+    "full": "assets/art/096-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 720,
+    "id": 97,
+    "source": "art/hd.PNG",
+    "thumb": "assets/art/097-thumb.jpg",
+    "full": "assets/art/097-full.jpg",
+    "width": 2000,
+    "height": 1500
+  },
+  {
+    "thumb_width": 576,
+    "id": 98,
+    "source": "art/iberian_lynx.JPG",
+    "thumb": "assets/art/098-thumb.jpg",
+    "full": "assets/art/098-full.jpg",
+    "width": 1600,
+    "height": 2000
+  },
+  {
+    "thumb_width": 517,
+    "id": 99,
+    "source": "art/lion.TIF",
+    "thumb": "assets/art/099-thumb.png",
+    "full": "assets/art/099-full.png",
+    "width": 1436,
+    "height": 2000
+  }
+]

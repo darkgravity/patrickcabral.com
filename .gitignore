@@ -1,0 +1,6 @@
+.DS_Store
+art/
+generated_images/
+__pycache__/
+*.pyc
+*.zip

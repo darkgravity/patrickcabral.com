@@ -1,0 +1,928 @@
+[
+  {
+    "slug": "starbucks-reserve",
+    "title": "Starbucks Reserve",
+    "category": "sculpture",
+    "images": [
+      8,
+      94,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      74
+    ],
+    "cover": 8,
+    "description": "Three animals. Three coffee-growing regions. A collection of intricately layered sculptures created for Starbucks Reserve at SM North Towers, Quezon City. The Sumatran tiger, Kenyan elephant, and Guatemalan quetzal translate the origins of coffee into pattern, texture, and relief.",
+    "alt": "Starbucks Reserve by Patrick Cabral",
+    "medium": "Layered MDF",
+    "title_status": "verified",
+    "context": "Created for the Reserve store at SM North Towers. This installation translates the visual language of paper cutting into layered MDF for a lasting architectural display.",
+    "sources": [
+      [
+        "The Starbucks Reserve commission · adobo magazine",
+        "https://www.adobomagazine.com/global-news/starbucks-opens-newest-reserve-store-featuring-masterpieces-by-filipino-artist-patrick-cabral/"
+      ],
+      [
+        "Material and process · Colossal",
+        "https://www.thisiscolossal.com/2019/01/animals-patrick-cabral/"
+      ]
+    ],
+    "captions": {
+      "8": "Starbucks Reserve · the complete installation",
+      "94": "Kenyan elephant · full composition",
+      "74": "Patrick Cabral with the Starbucks Reserve collection",
+      "82": "Elephant · layered detail",
+      "83": "Tiger · layered detail",
+      "84": "Tiger · layered detail",
+      "85": "Starbucks Reserve · sculptural detail",
+      "86": "Starbucks Reserve · sculptural detail",
+      "87": "Elephant · layered detail",
+      "88": "Tiger · layered detail",
+      "89": "Tiger · layered detail"
+    }
+  },
+  {
+    "slug": "langit-at-lupa",
+    "title": "Langit at Lupa",
+    "category": "culture",
+    "images": [
+      59,
+      60
+    ],
+    "cover": 59,
+    "description": "Two elaborate masks inspired by the energy and ornament of Dinagyang. Langit evokes air, flight, and dreams; Lupa evokes earth, fire, and passion. Together, they explore the meeting of calm and chaos.",
+    "alt": "Langit at Lupa by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "verified",
+    "context": "Commissioned by the Iloilo Museum of Contemporary Art for the Dinagyang Festival. The pair is part of Mananayaw ng Langit at Lupa, or Dancers of Heaven and Earth.",
+    "sources": [
+      [
+        "The Dinagyang masks · Colossal",
+        "https://www.thisiscolossal.com/2021/03/patrick-cabral-dinagyang-masks/"
+      ]
+    ],
+    "captions": {
+      "59": "Langit · air, flight, and dreams",
+      "60": "Lupa · earth, fire, and passion"
+    }
+  },
+  {
+    "slug": "roosters-in-colour",
+    "title": "Roosters in Colour",
+    "category": "culture",
+    "images": [
+      46,
+      17
+    ],
+    "cover": 46,
+    "description": "Two roosters meet in an expansive composition of colour and movement. Layered feathers open into rhythmic fans, transforming a charged encounter into an intricate sculptural silhouette.",
+    "alt": "Roosters in Colour by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive",
+    "sources": [
+      [
+        "Pattern and Filipino culture · Colossal",
+        "https://www.thisiscolossal.com/2024/08/paper-sculptures-patrick-cabral/"
+      ]
+    ]
+  },
+  {
+    "slug": "parol",
+    "title": "Parol",
+    "category": "culture",
+    "images": [
+      10
+    ],
+    "cover": 10,
+    "description": "A familiar Filipino symbol becomes an elaborate study in symmetry. Jewel-like colour and repeated patterns radiate outward from a central star.",
+    "alt": "Parol by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive",
+    "sources": [
+      [
+        "Pattern and Filipino culture · Colossal",
+        "https://www.thisiscolossal.com/2024/08/paper-sculptures-patrick-cabral/"
+      ]
+    ]
+  },
+  {
+    "slug": "parol-ii",
+    "title": "Parol II",
+    "category": "culture",
+    "images": [
+      68
+    ],
+    "cover": 68,
+    "description": "A second exploration of the star-shaped Filipino lantern. Concentric layers of blue, yellow, pink, and green gather around the centre, creating depth through colour and repetition.",
+    "alt": "Parol II by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive",
+    "sources": [
+      [
+        "Pattern and Filipino culture · Colossal",
+        "https://www.thisiscolossal.com/2024/08/paper-sculptures-patrick-cabral/"
+      ]
+    ]
+  },
+  {
+    "slug": "fudog",
+    "title": "Fudog",
+    "category": "culture",
+    "images": [
+      67,
+      69
+    ],
+    "cover": 67,
+    "description": "An expressive guardian face, built from vivid interlocking shapes. Curls, flames, and repeating contours create a dense surface of sculptural ornament.",
+    "alt": "Fudog by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive",
+    "sources": [
+      [
+        "Pattern and Filipino culture · Colossal",
+        "https://www.thisiscolossal.com/2024/08/paper-sculptures-patrick-cabral/"
+      ]
+    ]
+  },
+  {
+    "slug": "white-roosters",
+    "title": "Roosters in White",
+    "category": "sculpture",
+    "images": [
+      80
+    ],
+    "cover": 80,
+    "description": "An encounter suspended in motion. Two birds rise through a composition of outstretched wings and cascading tails, each feather articulated through delicate layers and repeating patterns.",
+    "alt": "Roosters in White by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "crowned-lion",
+    "title": "Crowned Lion",
+    "category": "sculpture",
+    "images": [
+      99
+    ],
+    "cover": 99,
+    "description": "A regal feline portrait framed by an elaborate mane and crown. Fine ornamental contours give the white and gold layers a lace-like delicacy.",
+    "alt": "Crowned Lion by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "elephant",
+    "title": "Elephant",
+    "category": "sculpture",
+    "images": [
+      93,
+      15
+    ],
+    "cover": 93,
+    "description": "A frontal elephant portrait shaped by patterned layers. Wide ears, curled tusks, and a sweeping trunk turn an instantly recognisable animal into an intricate arrangement of curves.",
+    "alt": "Elephant by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "paper-tiger",
+    "title": "Tiger",
+    "category": "sculpture",
+    "images": [
+      2,
+      42,
+      5
+    ],
+    "cover": 2,
+    "description": "A tiger portrait articulated through delicate white layers and dark outlines. The close views reveal how repeated patterns give structure to the cheeks, brows, and muzzle.",
+    "alt": "Tiger by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "tiger-in-blue",
+    "title": "Tiger in Blue",
+    "category": "sculpture",
+    "images": [
+      16,
+      23
+    ],
+    "cover": 16,
+    "description": "A feline portrait surrounded by a radiating blue silhouette. Cool colour and layered pattern give this tiger a distinct expression and rhythm.",
+    "alt": "Tiger in Blue by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "tiger-in-gold",
+    "title": "Tiger in Gold",
+    "category": "sculpture",
+    "images": [
+      48
+    ],
+    "cover": 48,
+    "description": "A white tiger portrait traced with fine gold contours. Repeating arches follow the face and build a layered relief around its eyes and muzzle.",
+    "alt": "Tiger in Gold by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "lion",
+    "title": "Lion",
+    "category": "sculpture",
+    "images": [
+      43,
+      37
+    ],
+    "cover": 43,
+    "description": "An expressive lion portrait framed by a mane of overlapping, petal-like forms. An installation photograph places the layered sculpture in its architectural setting.",
+    "alt": "Lion by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "lion-openwork",
+    "title": "Lion / Openwork",
+    "category": "sculpture",
+    "images": [
+      44,
+      56
+    ],
+    "cover": 44,
+    "description": "Open contours and pointed shapes form a sweeping mane. This lion explores the contrast between a solid face and the delicate outer silhouette of its ornament.",
+    "alt": "Lion / Openwork by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "rhinoceros",
+    "title": "Rhinoceros in White",
+    "category": "sculpture",
+    "images": [
+      35,
+      19
+    ],
+    "cover": 35,
+    "description": "A sculptural rhinoceros with a surface of repeated, lace-like detail. White layers follow the full body, bringing delicate patterns to a powerful animal silhouette.",
+    "alt": "Rhinoceros in White by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "dhole",
+    "title": "Dhole",
+    "category": "sculpture",
+    "images": [
+      90
+    ],
+    "cover": 90,
+    "description": "An alert wild-dog portrait rendered in fine white layers. A dense field of cut detail follows the face while the ears establish a crisp, recognisable outline.",
+    "alt": "Dhole by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "gorilla",
+    "title": "Gorilla",
+    "category": "sculpture",
+    "images": [
+      96
+    ],
+    "cover": 96,
+    "description": "A quiet portrait with a richly patterned surface. Overlapping layers define the brow, muzzle, and outline of a gorilla’s face.",
+    "alt": "Gorilla by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "iberian-lynx",
+    "title": "Iberian Lynx",
+    "category": "sculpture",
+    "images": [
+      98
+    ],
+    "cover": 98,
+    "description": "Tufted ears and a long facial silhouette become a framework for layered ornament. Curving motifs move across the face, drawing attention toward the eyes.",
+    "alt": "Iberian Lynx by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "tamaraw",
+    "title": "Tamaraw",
+    "category": "sculpture",
+    "images": [
+      36
+    ],
+    "cover": 36,
+    "description": "The curved horns and broad face of a tamaraw become a symmetrical layered portrait. Fine patterns gather around the eyes and flow outward across its silhouette.",
+    "alt": "Tamaraw by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "hippopotamus",
+    "title": "Hippopotamus",
+    "category": "sculpture",
+    "images": [
+      38
+    ],
+    "cover": 38,
+    "description": "A broad, rounded animal portrait built from repeated contours. Gold accents and fine white patterning bring rhythm to the face.",
+    "alt": "Hippopotamus by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "dog-portrait",
+    "title": "Dog Portrait",
+    "category": "sculpture",
+    "images": [
+      51
+    ],
+    "cover": 51,
+    "description": "A white dog portrait with soft, floppy ears and an intricately patterned face. A small collar tag brings a personal detail to the layered composition.",
+    "alt": "Dog Portrait by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "cat",
+    "title": "Cat",
+    "category": "sculpture",
+    "images": [
+      77
+    ],
+    "cover": 77,
+    "description": "A cat’s face emerges from intricately layered white ornament. Clear eyes and pointed ears anchor a surface of delicate repeating motifs.",
+    "alt": "Cat by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "owl",
+    "title": "Owl",
+    "category": "sculpture",
+    "images": [
+      66
+    ],
+    "cover": 66,
+    "description": "An owl rendered in a dark, densely patterned relief. Its upright silhouette and luminous eyes remain distinct within a finely detailed surface.",
+    "alt": "Owl by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "bee",
+    "title": "Bee",
+    "category": "sculpture",
+    "images": [
+      76,
+      75,
+      63
+    ],
+    "cover": 76,
+    "description": "An insect becomes a sculptural study in symmetry. Delicate open wings extend from a richly patterned body, revealing the relationship between structure and ornament.",
+    "alt": "Bee by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "eagle",
+    "title": "Eagle",
+    "category": "sculpture",
+    "images": [
+      92
+    ],
+    "cover": 92,
+    "description": "An eagle held in a moment of movement, with lifted wings and sharply defined feathers. Layers of white detail give the silhouette both volume and delicacy.",
+    "alt": "Eagle by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "penguin",
+    "title": "Penguin",
+    "category": "sculpture",
+    "images": [
+      24,
+      33
+    ],
+    "cover": 24,
+    "description": "A patterned white penguin framed by deep, stepped layers. Two views show the figure against warm red and amber backgrounds.",
+    "alt": "Penguin by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "cockatoo",
+    "title": "Cockatoo",
+    "category": "sculpture",
+    "images": [
+      53
+    ],
+    "cover": 53,
+    "description": "A crested bird perched on a branch. Layers of pale ornament articulate the feathers, while its lifted crest creates an expressive profile.",
+    "alt": "Cockatoo by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "horses",
+    "title": "Horses",
+    "category": "sculpture",
+    "images": [
+      31
+    ],
+    "cover": 31,
+    "description": "Two white horses stretch through a flowing, horizontal composition. Layered surface detail follows their bodies, balancing movement with intricate repetition.",
+    "alt": "Horses by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "shark",
+    "title": "Shark",
+    "category": "sculpture",
+    "images": [
+      32
+    ],
+    "cover": 32,
+    "description": "A white shark suspended within a framed composition. Its long, recognisable silhouette is filled with carefully arranged surface detail.",
+    "alt": "Shark by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "pangolin",
+    "title": "Pangolin",
+    "category": "sculpture",
+    "images": [
+      50
+    ],
+    "cover": 50,
+    "description": "A curled animal figure forms an almost circular composition. Its repeated scale-like layers make texture the central structure of the work.",
+    "alt": "Pangolin by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "white-gold-dragon",
+    "title": "White & Gold Dragon",
+    "category": "culture",
+    "images": [
+      39,
+      58
+    ],
+    "cover": 39,
+    "description": "A long white dragon moves across a horizontal composition. Gold details accent the curling body, horns, and limbs, drawing the eye along its patterned surface.",
+    "alt": "White & Gold Dragon by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "intertwined-dragons",
+    "title": "Intertwined Dragons",
+    "category": "culture",
+    "images": [
+      40
+    ],
+    "cover": 40,
+    "description": "Two dragons weave through a single expansive composition. Their curving bodies and fine surface patterns create a conversation between movement and balance.",
+    "alt": "Intertwined Dragons by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "dragon-and-serpent",
+    "title": "Dragon & Serpent",
+    "category": "culture",
+    "images": [
+      52
+    ],
+    "cover": 52,
+    "description": "A dragon and a serpent face one another in a curling composition. White and gold layers articulate their bodies and give shape to the space between them.",
+    "alt": "Dragon & Serpent by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "dragon-and-fish",
+    "title": "Dragon & Fish",
+    "category": "culture",
+    "images": [
+      47
+    ],
+    "cover": 47,
+    "description": "A pale dragon and surrounding fish move over a warm gold ground. Interwoven silhouettes form a flowing composition of water, motion, and ornament.",
+    "alt": "Dragon & Fish by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "golden-dragon",
+    "title": "Golden Dragon",
+    "category": "culture",
+    "images": [
+      91
+    ],
+    "cover": 91,
+    "description": "A golden dragon stretches across the composition in a series of flowing curves. Fine repeating detail follows the length of the body and reaches into the smallest features.",
+    "alt": "Golden Dragon by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "winged-figures",
+    "title": "Winged Figures",
+    "category": "sculpture",
+    "images": [
+      62
+    ],
+    "cover": 62,
+    "description": "Two winged figures meet in a cloud-like arrangement of curves. Layered surfaces give shape to the bodies, feathers, and surrounding relief.",
+    "alt": "Winged Figures by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "figure-in-motion",
+    "title": "Figure in Motion",
+    "category": "sculpture",
+    "images": [
+      64
+    ],
+    "cover": 64,
+    "description": "A pale figure rises above a sweeping red form. Fine ornament and an elongated silhouette create a theatrical sense of motion.",
+    "alt": "Figure in Motion by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "madonna-and-child",
+    "title": "Madonna & Child",
+    "category": "culture",
+    "images": [
+      70
+    ],
+    "cover": 70,
+    "description": "A crowned mother and child framed by a delicate radiating halo. Ornamental layers shape the sweeping robes, moving between gold, white, blue, and warm red.",
+    "alt": "Madonna & Child by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "dragon-and-koi",
+    "title": "Dragon & Koi",
+    "category": "culture",
+    "images": [
+      71
+    ],
+    "cover": 71,
+    "description": "A dragon and fish weave through an intricate square composition. White and gold layers intertwine against a dark ground.",
+    "alt": "Dragon & Koi by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "architectural-relief",
+    "title": "Architecture in Relief",
+    "category": "sculpture",
+    "images": [
+      0,
+      3,
+      6,
+      25
+    ],
+    "cover": 0,
+    "description": "A classical building reimagined through layers of white ornament. Detail photographs move from the full façade into the architectural rhythm of columns, windows, and decorative edges.",
+    "alt": "Architecture in Relief by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "darth-vader",
+    "title": "Darth Vader",
+    "category": "sculpture",
+    "images": [
+      30
+    ],
+    "cover": 30,
+    "description": "An iconic dark helmet translated into layered ornament. Fine surface detail follows its familiar curves and angular contours.",
+    "alt": "Darth Vader by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "wolf-characters",
+    "title": "Wolf Characters",
+    "category": "sculpture",
+    "images": [
+      95,
+      78
+    ],
+    "cover": 95,
+    "description": "Two playful wolf portraits pair layered faces with stylised streetwear. Coloured caps and jackets give each character a distinct personality.",
+    "alt": "Wolf Characters by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "ornamental-creature",
+    "title": "Ornamental Creature",
+    "category": "sculpture",
+    "images": [
+      45
+    ],
+    "cover": 45,
+    "description": "A seated fantastical creature with a curled tail and highly patterned surface. Sweeping contours and delicate ornament give the compact sculpture an expressive silhouette.",
+    "alt": "Ornamental Creature by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "primate-portrait",
+    "title": "Primate Portrait",
+    "category": "sculpture",
+    "images": [
+      57
+    ],
+    "cover": 57,
+    "description": "An expressive primate portrait with warm earth tones and a vividly coloured face. Repeated contours build outward into a broad, symmetrical silhouette.",
+    "alt": "Primate Portrait by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "lettering-in-relief",
+    "title": "Lettering in Relief",
+    "category": "lettering",
+    "images": [
+      65,
+      97
+    ],
+    "cover": 65,
+    "description": "Bold lettering surrounded by a dense arrangement of botanical ornament. White layers and deep shadows set the directness of the word against the delicacy of its sculptural setting.",
+    "alt": "Ornamental white layered sculpture spelling FUCK by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "white-lettering",
+    "title": "White Lettering",
+    "category": "lettering",
+    "images": [
+      27
+    ],
+    "cover": 27,
+    "description": "A typographic composition built from close-set white layers. Letterforms sit within a field of repeated contours, creating a quiet interplay of language and relief.",
+    "alt": "White Lettering by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "calligraphic-monogram",
+    "title": "Calligraphic Monogram",
+    "category": "lettering",
+    "images": [
+      29
+    ],
+    "cover": 29,
+    "description": "A flowing monogram rendered in vivid turquoise and green. Sweeping letterforms bring the movement of calligraphy into a dimensional composition.",
+    "alt": "Calligraphic Monogram by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "faceted-vessel",
+    "title": "Faceted Vessel",
+    "category": "experiments",
+    "images": [
+      1,
+      4,
+      7,
+      26
+    ],
+    "cover": 1,
+    "description": "A vessel study shaped by closely stacked contours and a faceted opening. Alternate views reveal the changing rhythm of the rim and outer surface.",
+    "alt": "Faceted Vessel by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "lattice-form",
+    "title": "Lattice Form",
+    "category": "experiments",
+    "images": [
+      9
+    ],
+    "cover": 9,
+    "description": "An open ovoid structure with a metallic finish. Interconnected cells define a form through its empty spaces as much as through its surface.",
+    "alt": "Lattice Form by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "organic-forms",
+    "title": "Organic Forms",
+    "category": "experiments",
+    "images": [
+      14,
+      18
+    ],
+    "cover": 14,
+    "description": "Flowing white forms with deep openings and layered surface rhythms. These related studies explore the balance between a continuous outer shape and its internal spaces.",
+    "alt": "Organic Forms by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "chromatic-form",
+    "title": "Chromatic Form",
+    "category": "experiments",
+    "images": [
+      13,
+      72
+    ],
+    "cover": 13,
+    "description": "An ovoid study animated by flowing bands of colour. A full view and close-up reveal the intricate paths that weave across and through its surface.",
+    "alt": "Chromatic Form by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "branching-tree",
+    "title": "Branching Tree",
+    "category": "experiments",
+    "images": [
+      12
+    ],
+    "cover": 12,
+    "description": "A digital study of branching structure. Fine lines accumulate into a tree-like form, exploring growth through repeated divisions.",
+    "alt": "Branching Tree by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "branching-figure",
+    "title": "Branching Figure",
+    "category": "experiments",
+    "images": [
+      21,
+      73
+    ],
+    "cover": 21,
+    "description": "The human silhouette interpreted as a network of fine branching paths. Two treatments explore the relationship between organic growth and circuit-like structure.",
+    "alt": "Branching Figure by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "twisting-forms",
+    "title": "Twisting Forms",
+    "category": "experiments",
+    "images": [
+      28
+    ],
+    "cover": 28,
+    "description": "A pair of twisting forms built from stacked ribs. Repeated elements create fluid silhouettes that change in density and direction.",
+    "alt": "Twisting Forms by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "tower-studies",
+    "title": "Tower Studies",
+    "category": "experiments",
+    "images": [
+      34
+    ],
+    "cover": 34,
+    "description": "Two slender towers shaped by stacked, shifting layers. Their changing profiles explore how repetition can suggest movement within a static form.",
+    "alt": "Tower Studies by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "chair-studies",
+    "title": "Chair Studies",
+    "category": "experiments",
+    "images": [
+      79
+    ],
+    "cover": 79,
+    "description": "Two chairs explored as continuous, sculptural gestures. Looping profiles blur the boundary between furniture and expressive line.",
+    "alt": "Chair Studies by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "pattern-field",
+    "title": "Pattern Field",
+    "category": "experiments",
+    "images": [
+      22
+    ],
+    "cover": 22,
+    "description": "An all-over study of interlocking colour and repeating motifs. The close composition explores pattern as a continuous field rather than a single central object.",
+    "alt": "Pattern Field by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "chromatic-mask",
+    "title": "Chromatic Mask",
+    "category": "experiments",
+    "images": [
+      81
+    ],
+    "cover": 81,
+    "description": "A mask-like face formed from vivid geometric marks against a dark ground. Dense colour and rhythmic line create a distinctly graphic portrait.",
+    "alt": "Chromatic Mask by Patrick Cabral",
+    "medium": "Digital study",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "paired-eagles",
+    "title": "Paired Eagles",
+    "category": "sculpture",
+    "images": [
+      41
+    ],
+    "cover": 41,
+    "description": "Two eagles face one another with wings lifted. Fine patterned feathers create a mirrored composition, balancing the birds with the open space between them.",
+    "alt": "Paired Eagles by Patrick Cabral",
+    "medium": "Layered sculpture",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "rhinoceros-in-gold",
+    "title": "Rhinoceros in Gold",
+    "images": [
+      49
+    ],
+    "cover": 49,
+    "description": "A warm gold-toned rhinoceros with an elaborately patterned surface. Repeated contours follow the animal’s body, tracing the broad silhouette and distinctive horns.",
+    "category": "sculpture",
+    "medium": "Layered sculpture",
+    "alt": "Rhinoceros in Gold by Patrick Cabral",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "peacock",
+    "title": "Peacock",
+    "images": [
+      54
+    ],
+    "cover": 54,
+    "description": "A crested bird with a long, broad tail. Layered pattern gives depth to the feathers and follows the elegant outline of the body.",
+    "category": "sculpture",
+    "medium": "Layered sculpture",
+    "alt": "Peacock by Patrick Cabral",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "hornbill",
+    "title": "Hornbill",
+    "images": [
+      55
+    ],
+    "cover": 55,
+    "description": "A hornbill perched on a branch, its distinctive beak and casque forming a striking profile. Fine layered detail continues across the wings and body.",
+    "category": "sculpture",
+    "medium": "Layered sculpture",
+    "alt": "Hornbill by Patrick Cabral",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "stormtrooper",
+    "title": "Stormtrooper",
+    "images": [
+      61
+    ],
+    "cover": 61,
+    "description": "A familiar white science-fiction helmet interpreted through delicate sculptural pattern. The contrast between light and dark preserves the character of its iconic silhouette.",
+    "category": "sculpture",
+    "medium": "Layered sculpture",
+    "alt": "Stormtrooper by Patrick Cabral",
+    "title_status": "descriptive"
+  },
+  {
+    "slug": "ribbed-organic-form",
+    "title": "Ribbed Organic Form",
+    "images": [
+      11
+    ],
+    "cover": 11,
+    "description": "A warm-toned ovoid formed from finely interlocking ribs. The dense surface opens into an intricate network of organic cavities.",
+    "category": "experiments",
+    "medium": "Form exploration",
+    "alt": "Ribbed Organic Form by Patrick Cabral",
+    "title_status": "descriptive"
+  }
+]
