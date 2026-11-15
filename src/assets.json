@@ -6,7 +6,10 @@
     "thumb": "assets/art/000-thumb.jpg",
     "full": "assets/art/000-full.jpg",
     "width": 2000,
-    "height": 1333
+    "height": 1333,
+    "display": "assets/art/000-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 540,
@@ -15,16 +18,22 @@
     "thumb": "assets/art/001-thumb.jpg",
     "full": "assets/art/001-full.jpg",
     "width": 1500,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/001-display.jpg",
+    "display_width": 1050,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
     "id": 2,
     "source": "art/1.TIF",
-    "thumb": "assets/art/002-thumb.png",
+    "thumb": "assets/art/002-thumb.jpg",
     "full": "assets/art/002-full.png",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/002-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -33,7 +42,10 @@
     "thumb": "assets/art/003-thumb.jpg",
     "full": "assets/art/003-full.jpg",
     "width": 2000,
-    "height": 1333
+    "height": 1333,
+    "display": "assets/art/003-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 540,
@@ -42,16 +54,22 @@
     "thumb": "assets/art/004-thumb.jpg",
     "full": "assets/art/004-full.jpg",
     "width": 1500,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/004-display.jpg",
+    "display_width": 1050,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
     "id": 5,
     "source": "art/2.TIF",
-    "thumb": "assets/art/005-thumb.png",
+    "thumb": "assets/art/005-thumb.jpg",
     "full": "assets/art/005-full.png",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/005-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -60,7 +78,10 @@
     "thumb": "assets/art/006-thumb.jpg",
     "full": "assets/art/006-full.jpg",
     "width": 2000,
-    "height": 1333
+    "height": 1333,
+    "display": "assets/art/006-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 540,
@@ -69,7 +90,10 @@
     "thumb": "assets/art/007-thumb.jpg",
     "full": "assets/art/007-full.jpg",
     "width": 1500,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/007-display.jpg",
+    "display_width": 1050,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -78,7 +102,10 @@
     "thumb": "assets/art/008-thumb.jpg",
     "full": "assets/art/008-full.jpg",
     "width": 2000,
-    "height": 1334
+    "height": 1334,
+    "display": "assets/art/008-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 576,
@@ -87,7 +114,13 @@
     "thumb": "assets/art/009-thumb.jpg",
     "full": "assets/art/009-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/ribbon/ribbon52.png"
+    ],
+    "display": "assets/art/009-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -96,7 +129,10 @@
     "thumb": "assets/art/010-thumb.jpg",
     "full": "assets/art/010-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/010-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -105,7 +141,13 @@
     "thumb": "assets/art/011-thumb.jpg",
     "full": "assets/art/011-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/house2.png"
+    ],
+    "display": "assets/art/011-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -114,7 +156,13 @@
     "thumb": "assets/art/012-thumb.jpg",
     "full": "assets/art/012-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/groot/wick3.png"
+    ],
+    "display": "assets/art/012-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -123,7 +171,14 @@
     "thumb": "assets/art/013-thumb.jpg",
     "full": "assets/art/013-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/ribbon/fiber2.png",
+      "techsugi/ribbon/fiber2 - Copy.png"
+    ],
+    "display": "assets/art/013-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -132,7 +187,13 @@
     "thumb": "assets/art/014-thumb.jpg",
     "full": "assets/art/014-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/bone/bone_52.png"
+    ],
+    "display": "assets/art/014-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -141,7 +202,10 @@
     "thumb": "assets/art/015-thumb.jpg",
     "full": "assets/art/015-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/015-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -150,7 +214,10 @@
     "thumb": "assets/art/016-thumb.jpg",
     "full": "assets/art/016-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/016-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -159,7 +226,10 @@
     "thumb": "assets/art/017-thumb.jpg",
     "full": "assets/art/017-full.jpg",
     "width": 2000,
-    "height": 1333
+    "height": 1333,
+    "display": "assets/art/017-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 576,
@@ -168,7 +238,13 @@
     "thumb": "assets/art/018-thumb.jpg",
     "full": "assets/art/018-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/bone/bone_49.png"
+    ],
+    "display": "assets/art/018-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -177,7 +253,10 @@
     "thumb": "assets/art/019-thumb.jpg",
     "full": "assets/art/019-full.jpg",
     "width": 2000,
-    "height": 1333
+    "height": 1333,
+    "display": "assets/art/019-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 539,
@@ -186,7 +265,10 @@
     "thumb": "assets/art/020-thumb.jpg",
     "full": "assets/art/020-full.jpg",
     "width": 1499,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/020-display.jpg",
+    "display_width": 1049,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -195,7 +277,13 @@
     "thumb": "assets/art/021-thumb.jpg",
     "full": "assets/art/021-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/groot/wick4.png"
+    ],
+    "display": "assets/art/021-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -204,7 +292,13 @@
     "thumb": "assets/art/022-thumb.jpg",
     "full": "assets/art/022-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/ribbon/yeastF.png"
+    ],
+    "display": "assets/art/022-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -213,7 +307,10 @@
     "thumb": "assets/art/023-thumb.jpg",
     "full": "assets/art/023-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/023-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -222,7 +319,10 @@
     "thumb": "assets/art/024-thumb.jpg",
     "full": "assets/art/024-full.jpg",
     "width": 2000,
-    "height": 1526
+    "height": 1526,
+    "display": "assets/art/024-display.jpg",
+    "display_width": 1400,
+    "display_height": 1068
   },
   {
     "thumb_width": 720,
@@ -231,7 +331,10 @@
     "thumb": "assets/art/025-thumb.jpg",
     "full": "assets/art/025-full.jpg",
     "width": 2000,
-    "height": 1333
+    "height": 1333,
+    "display": "assets/art/025-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 540,
@@ -240,7 +343,10 @@
     "thumb": "assets/art/026-thumb.jpg",
     "full": "assets/art/026-full.jpg",
     "width": 1500,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/026-display.jpg",
+    "display_width": 1050,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -249,7 +355,10 @@
     "thumb": "assets/art/027-thumb.jpg",
     "full": "assets/art/027-full.jpg",
     "width": 1601,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/027-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -258,7 +367,10 @@
     "thumb": "assets/art/028-thumb.jpg",
     "full": "assets/art/028-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/028-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -267,7 +379,10 @@
     "thumb": "assets/art/029-thumb.jpg",
     "full": "assets/art/029-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/029-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -276,16 +391,22 @@
     "thumb": "assets/art/030-thumb.jpg",
     "full": "assets/art/030-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/030-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
     "id": 31,
     "source": "art/DSCF9162.TIF",
-    "thumb": "assets/art/031-thumb.png",
+    "thumb": "assets/art/031-thumb.jpg",
     "full": "assets/art/031-full.png",
     "width": 2000,
-    "height": 1333
+    "height": 1333,
+    "display": "assets/art/031-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 720,
@@ -294,7 +415,10 @@
     "thumb": "assets/art/032-thumb.jpg",
     "full": "assets/art/032-full.jpg",
     "width": 2000,
-    "height": 1149
+    "height": 1149,
+    "display": "assets/art/032-display.jpg",
+    "display_width": 1400,
+    "display_height": 804
   },
   {
     "thumb_width": 720,
@@ -303,7 +427,10 @@
     "thumb": "assets/art/033-thumb.jpg",
     "full": "assets/art/033-full.jpg",
     "width": 2000,
-    "height": 1500
+    "height": 1500,
+    "display": "assets/art/033-display.jpg",
+    "display_width": 1400,
+    "display_height": 1050
   },
   {
     "thumb_width": 720,
@@ -312,7 +439,10 @@
     "thumb": "assets/art/034-thumb.jpg",
     "full": "assets/art/034-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/034-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -321,16 +451,22 @@
     "thumb": "assets/art/035-thumb.jpg",
     "full": "assets/art/035-full.jpg",
     "width": 2000,
-    "height": 1333
+    "height": 1333,
+    "display": "assets/art/035-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 576,
     "id": 36,
     "source": "art/IMG_0516.TIF",
-    "thumb": "assets/art/036-thumb.png",
+    "thumb": "assets/art/036-thumb.jpg",
     "full": "assets/art/036-full.png",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/036-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 540,
@@ -339,7 +475,10 @@
     "thumb": "assets/art/037-thumb.jpg",
     "full": "assets/art/037-full.jpg",
     "width": 1500,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/037-display.jpg",
+    "display_width": 1050,
+    "display_height": 1400
   },
   {
     "thumb_width": 684,
@@ -348,7 +487,10 @@
     "thumb": "assets/art/038-thumb.jpg",
     "full": "assets/art/038-full.jpg",
     "width": 1899,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/038-display.jpg",
+    "display_width": 1329,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -357,7 +499,10 @@
     "thumb": "assets/art/039-thumb.jpg",
     "full": "assets/art/039-full.jpg",
     "width": 2000,
-    "height": 1000
+    "height": 1000,
+    "display": "assets/art/039-display.jpg",
+    "display_width": 1400,
+    "display_height": 700
   },
   {
     "thumb_width": 720,
@@ -366,25 +511,34 @@
     "thumb": "assets/art/040-thumb.jpg",
     "full": "assets/art/040-full.jpg",
     "width": 2000,
-    "height": 902
+    "height": 902,
+    "display": "assets/art/040-display.jpg",
+    "display_width": 1400,
+    "display_height": 631
   },
   {
     "thumb_width": 720,
     "id": 41,
     "source": "art/IMG_1260.TIF",
-    "thumb": "assets/art/041-thumb.png",
+    "thumb": "assets/art/041-thumb.jpg",
     "full": "assets/art/041-full.png",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/041-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
     "id": 42,
     "source": "art/IMG_1265.TIF",
-    "thumb": "assets/art/042-thumb.png",
+    "thumb": "assets/art/042-thumb.jpg",
     "full": "assets/art/042-full.png",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/042-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 522,
@@ -393,7 +547,10 @@
     "thumb": "assets/art/043-thumb.jpg",
     "full": "assets/art/043-full.jpg",
     "width": 1451,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/043-display.jpg",
+    "display_width": 1015,
+    "display_height": 1400
   },
   {
     "thumb_width": 528,
@@ -402,7 +559,10 @@
     "thumb": "assets/art/044-thumb.jpg",
     "full": "assets/art/044-full.jpg",
     "width": 1468,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/044-display.jpg",
+    "display_width": 1027,
+    "display_height": 1400
   },
   {
     "thumb_width": 567,
@@ -411,25 +571,34 @@
     "thumb": "assets/art/045-thumb.jpg",
     "full": "assets/art/045-full.jpg",
     "width": 1574,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/045-display.jpg",
+    "display_width": 1101,
+    "display_height": 1400
   },
   {
     "thumb_width": 540,
     "id": 46,
     "source": "art/IMG_1385.TIF",
-    "thumb": "assets/art/046-thumb.png",
+    "thumb": "assets/art/046-thumb.jpg",
     "full": "assets/art/046-full.png",
     "width": 1500,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/046-display.jpg",
+    "display_width": 1050,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
     "id": 47,
     "source": "art/IMG_1419.TIF",
-    "thumb": "assets/art/047-thumb.png",
+    "thumb": "assets/art/047-thumb.jpg",
     "full": "assets/art/047-full.png",
     "width": 2000,
-    "height": 1000
+    "height": 1000,
+    "display": "assets/art/047-display.jpg",
+    "display_width": 1400,
+    "display_height": 700
   },
   {
     "thumb_width": 720,
@@ -438,7 +607,10 @@
     "thumb": "assets/art/048-thumb.jpg",
     "full": "assets/art/048-full.jpg",
     "width": 2000,
-    "height": 1846
+    "height": 1846,
+    "display": "assets/art/048-display.jpg",
+    "display_width": 1400,
+    "display_height": 1292
   },
   {
     "thumb_width": 720,
@@ -447,7 +619,10 @@
     "thumb": "assets/art/049-thumb.jpg",
     "full": "assets/art/049-full.jpg",
     "width": 2000,
-    "height": 1358
+    "height": 1358,
+    "display": "assets/art/049-display.jpg",
+    "display_width": 1400,
+    "display_height": 950
   },
   {
     "thumb_width": 720,
@@ -456,7 +631,10 @@
     "thumb": "assets/art/050-thumb.jpg",
     "full": "assets/art/050-full.jpg",
     "width": 2000,
-    "height": 1992
+    "height": 1992,
+    "display": "assets/art/050-display.jpg",
+    "display_width": 1400,
+    "display_height": 1394
   },
   {
     "thumb_width": 714,
@@ -465,7 +643,10 @@
     "thumb": "assets/art/051-thumb.jpg",
     "full": "assets/art/051-full.jpg",
     "width": 1984,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/051-display.jpg",
+    "display_width": 1388,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -474,7 +655,10 @@
     "thumb": "assets/art/052-thumb.jpg",
     "full": "assets/art/052-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/052-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 413,
@@ -483,7 +667,10 @@
     "thumb": "assets/art/053-thumb.jpg",
     "full": "assets/art/053-full.jpg",
     "width": 1149,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/053-display.jpg",
+    "display_width": 804,
+    "display_height": 1400
   },
   {
     "thumb_width": 413,
@@ -492,7 +679,10 @@
     "thumb": "assets/art/054-thumb.jpg",
     "full": "assets/art/054-full.jpg",
     "width": 1149,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/054-display.jpg",
+    "display_width": 804,
+    "display_height": 1400
   },
   {
     "thumb_width": 413,
@@ -501,7 +691,10 @@
     "thumb": "assets/art/055-thumb.jpg",
     "full": "assets/art/055-full.jpg",
     "width": 1149,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/055-display.jpg",
+    "display_width": 804,
+    "display_height": 1400
   },
   {
     "thumb_width": 528,
@@ -510,7 +703,10 @@
     "thumb": "assets/art/056-thumb.jpg",
     "full": "assets/art/056-full.jpg",
     "width": 1468,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/056-display.jpg",
+    "display_width": 1027,
+    "display_height": 1400
   },
   {
     "thumb_width": 519,
@@ -519,7 +715,10 @@
     "thumb": "assets/art/057-thumb.jpg",
     "full": "assets/art/057-full.jpg",
     "width": 1441,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/057-display.jpg",
+    "display_width": 1008,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -528,7 +727,10 @@
     "thumb": "assets/art/058-thumb.jpg",
     "full": "assets/art/058-full.jpg",
     "width": 2000,
-    "height": 1000
+    "height": 1000,
+    "display": "assets/art/058-display.jpg",
+    "display_width": 1400,
+    "display_height": 700
   },
   {
     "thumb_width": 603,
@@ -537,7 +739,10 @@
     "thumb": "assets/art/059-thumb.jpg",
     "full": "assets/art/059-full.jpg",
     "width": 1675,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/059-display.jpg",
+    "display_width": 1172,
+    "display_height": 1400
   },
   {
     "thumb_width": 603,
@@ -546,7 +751,10 @@
     "thumb": "assets/art/060-thumb.jpg",
     "full": "assets/art/060-full.jpg",
     "width": 1675,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/060-display.jpg",
+    "display_width": 1172,
+    "display_height": 1400
   },
   {
     "thumb_width": 634,
@@ -555,7 +763,10 @@
     "thumb": "assets/art/061-thumb.jpg",
     "full": "assets/art/061-full.jpg",
     "width": 1760,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/061-display.jpg",
+    "display_width": 1232,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -564,7 +775,10 @@
     "thumb": "assets/art/062-thumb.jpg",
     "full": "assets/art/062-full.jpg",
     "width": 2000,
-    "height": 1500
+    "height": 1500,
+    "display": "assets/art/062-display.jpg",
+    "display_width": 1400,
+    "display_height": 1050
   },
   {
     "thumb_width": 720,
@@ -573,7 +787,10 @@
     "thumb": "assets/art/063-thumb.jpg",
     "full": "assets/art/063-full.jpg",
     "width": 2000,
-    "height": 1500
+    "height": 1500,
+    "display": "assets/art/063-display.jpg",
+    "display_width": 1400,
+    "display_height": 1050
   },
   {
     "thumb_width": 614,
@@ -582,7 +799,10 @@
     "thumb": "assets/art/064-thumb.jpg",
     "full": "assets/art/064-full.jpg",
     "width": 1707,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/064-display.jpg",
+    "display_width": 1195,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -591,7 +811,10 @@
     "thumb": "assets/art/065-thumb.jpg",
     "full": "assets/art/065-full.jpg",
     "width": 2000,
-    "height": 1500
+    "height": 1500,
+    "display": "assets/art/065-display.jpg",
+    "display_width": 1400,
+    "display_height": 1050
   },
   {
     "thumb_width": 503,
@@ -600,7 +823,10 @@
     "thumb": "assets/art/066-thumb.jpg",
     "full": "assets/art/066-full.jpg",
     "width": 1398,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/066-display.jpg",
+    "display_width": 978,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -609,7 +835,10 @@
     "thumb": "assets/art/067-thumb.jpg",
     "full": "assets/art/067-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/067-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -618,7 +847,10 @@
     "thumb": "assets/art/068-thumb.jpg",
     "full": "assets/art/068-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/068-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -627,7 +859,10 @@
     "thumb": "assets/art/069-thumb.jpg",
     "full": "assets/art/069-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/069-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 598,
@@ -636,16 +871,22 @@
     "thumb": "assets/art/070-thumb.jpg",
     "full": "assets/art/070-full.jpg",
     "width": 1663,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/070-display.jpg",
+    "display_width": 1164,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
     "id": 71,
     "source": "art/IMG_1812.TIF",
-    "thumb": "assets/art/071-thumb.png",
+    "thumb": "assets/art/071-thumb.jpg",
     "full": "assets/art/071-full.png",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/071-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -654,7 +895,13 @@
     "thumb": "assets/art/072-thumb.jpg",
     "full": "assets/art/072-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/ribbon/fiber1.png"
+    ],
+    "display": "assets/art/072-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -663,7 +910,13 @@
     "thumb": "assets/art/073-thumb.jpg",
     "full": "assets/art/073-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "additional_sources": [
+      "techsugi/groot/wick6.png"
+    ],
+    "display": "assets/art/073-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -672,7 +925,10 @@
     "thumb": "assets/art/074-thumb.jpg",
     "full": "assets/art/074-full.jpg",
     "width": 2000,
-    "height": 1334
+    "height": 1334,
+    "display": "assets/art/074-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 720,
@@ -681,7 +937,10 @@
     "thumb": "assets/art/075-thumb.jpg",
     "full": "assets/art/075-full.jpg",
     "width": 2000,
-    "height": 1500
+    "height": 1500,
+    "display": "assets/art/075-display.jpg",
+    "display_width": 1400,
+    "display_height": 1050
   },
   {
     "thumb_width": 720,
@@ -690,7 +949,10 @@
     "thumb": "assets/art/076-thumb.jpg",
     "full": "assets/art/076-full.jpg",
     "width": 2000,
-    "height": 1500
+    "height": 1500,
+    "display": "assets/art/076-display.jpg",
+    "display_width": 1400,
+    "display_height": 1050
   },
   {
     "thumb_width": 720,
@@ -699,7 +961,10 @@
     "thumb": "assets/art/077-thumb.jpg",
     "full": "assets/art/077-full.jpg",
     "width": 2000,
-    "height": 1979
+    "height": 1979,
+    "display": "assets/art/077-display.jpg",
+    "display_width": 1400,
+    "display_height": 1385
   },
   {
     "thumb_width": 570,
@@ -708,7 +973,10 @@
     "thumb": "assets/art/078-thumb.jpg",
     "full": "assets/art/078-full.jpg",
     "width": 1583,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/078-display.jpg",
+    "display_width": 1108,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -717,16 +985,22 @@
     "thumb": "assets/art/079-thumb.jpg",
     "full": "assets/art/079-full.jpg",
     "width": 2000,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/079-display.jpg",
+    "display_width": 1400,
+    "display_height": 1400
   },
   {
     "thumb_width": 540,
     "id": 80,
     "source": "art/cockfight.TIF",
-    "thumb": "assets/art/080-thumb.png",
+    "thumb": "assets/art/080-thumb.jpg",
     "full": "assets/art/080-full.png",
     "width": 1500,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/080-display.jpg",
+    "display_width": 1050,
+    "display_height": 1400
   },
   {
     "thumb_width": 587,
@@ -735,7 +1009,10 @@
     "thumb": "assets/art/081-thumb.jpg",
     "full": "assets/art/081-full.jpg",
     "width": 1630,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/081-display.jpg",
+    "display_width": 1141,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -744,7 +1021,10 @@
     "thumb": "assets/art/082-thumb.jpg",
     "full": "assets/art/082-full.jpg",
     "width": 2000,
-    "height": 1334
+    "height": 1334,
+    "display": "assets/art/082-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 720,
@@ -753,7 +1033,10 @@
     "thumb": "assets/art/083-thumb.jpg",
     "full": "assets/art/083-full.jpg",
     "width": 2000,
-    "height": 1334
+    "height": 1334,
+    "display": "assets/art/083-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 720,
@@ -762,7 +1045,10 @@
     "thumb": "assets/art/084-thumb.jpg",
     "full": "assets/art/084-full.jpg",
     "width": 2000,
-    "height": 1334
+    "height": 1334,
+    "display": "assets/art/084-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 720,
@@ -771,7 +1057,10 @@
     "thumb": "assets/art/085-thumb.jpg",
     "full": "assets/art/085-full.jpg",
     "width": 2000,
-    "height": 1334
+    "height": 1334,
+    "display": "assets/art/085-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 480,
@@ -780,7 +1069,10 @@
     "thumb": "assets/art/086-thumb.jpg",
     "full": "assets/art/086-full.jpg",
     "width": 1334,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/086-display.jpg",
+    "display_width": 933,
+    "display_height": 1400
   },
   {
     "thumb_width": 480,
@@ -789,7 +1081,10 @@
     "thumb": "assets/art/087-thumb.jpg",
     "full": "assets/art/087-full.jpg",
     "width": 1334,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/087-display.jpg",
+    "display_width": 933,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -798,7 +1093,10 @@
     "thumb": "assets/art/088-thumb.jpg",
     "full": "assets/art/088-full.jpg",
     "width": 2000,
-    "height": 1334
+    "height": 1334,
+    "display": "assets/art/088-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 720,
@@ -807,7 +1105,10 @@
     "thumb": "assets/art/089-thumb.jpg",
     "full": "assets/art/089-full.jpg",
     "width": 2000,
-    "height": 1334
+    "height": 1334,
+    "display": "assets/art/089-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
   },
   {
     "thumb_width": 576,
@@ -816,7 +1117,10 @@
     "thumb": "assets/art/090-thumb.jpg",
     "full": "assets/art/090-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/090-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -825,16 +1129,22 @@
     "thumb": "assets/art/091-thumb.jpg",
     "full": "assets/art/091-full.jpg",
     "width": 2000,
-    "height": 1000
+    "height": 1000,
+    "display": "assets/art/091-display.jpg",
+    "display_width": 1400,
+    "display_height": 700
   },
   {
     "thumb_width": 540,
     "id": 92,
     "source": "art/eagle.TIF",
-    "thumb": "assets/art/092-thumb.png",
+    "thumb": "assets/art/092-thumb.jpg",
     "full": "assets/art/092-full.png",
     "width": 1500,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/092-display.jpg",
+    "display_width": 1050,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -843,7 +1153,10 @@
     "thumb": "assets/art/093-thumb.jpg",
     "full": "assets/art/093-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/093-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 480,
@@ -852,7 +1165,10 @@
     "thumb": "assets/art/094-thumb.jpg",
     "full": "assets/art/094-full.jpg",
     "width": 1334,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/094-display.jpg",
+    "display_width": 933,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -861,7 +1177,10 @@
     "thumb": "assets/art/095-thumb.jpg",
     "full": "assets/art/095-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/095-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 576,
@@ -870,7 +1189,10 @@
     "thumb": "assets/art/096-thumb.jpg",
     "full": "assets/art/096-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/096-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 720,
@@ -879,7 +1201,10 @@
     "thumb": "assets/art/097-thumb.jpg",
     "full": "assets/art/097-full.jpg",
     "width": 2000,
-    "height": 1500
+    "height": 1500,
+    "display": "assets/art/097-display.jpg",
+    "display_width": 1400,
+    "display_height": 1050
   },
   {
     "thumb_width": 576,
@@ -888,15 +1213,424 @@
     "thumb": "assets/art/098-thumb.jpg",
     "full": "assets/art/098-full.jpg",
     "width": 1600,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/098-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
   },
   {
     "thumb_width": 517,
     "id": 99,
     "source": "art/lion.TIF",
-    "thumb": "assets/art/099-thumb.png",
+    "thumb": "assets/art/099-thumb.jpg",
     "full": "assets/art/099-full.png",
     "width": 1436,
-    "height": 2000
+    "height": 2000,
+    "display": "assets/art/099-display.jpg",
+    "display_width": 1005,
+    "display_height": 1400
+  },
+  {
+    "source": "techsugi/bone/bone_0.png",
+    "full": "assets/techsugi/bone-00-full.jpg",
+    "thumb": "assets/techsugi/bone-00-thumb.jpg",
+    "width": 1080,
+    "height": 1350,
+    "thumb_width": 576,
+    "source_type": "techsugi",
+    "id": 100,
+    "display": "assets/techsugi/bone-00-display.jpg",
+    "display_width": 1080,
+    "display_height": 1350
+  },
+  {
+    "source": "techsugi/bone/bone_14.png",
+    "full": "assets/techsugi/bone-14-full.jpg",
+    "thumb": "assets/techsugi/bone-14-thumb.jpg",
+    "width": 1080,
+    "height": 1350,
+    "thumb_width": 576,
+    "source_type": "techsugi",
+    "id": 101,
+    "display": "assets/techsugi/bone-14-display.jpg",
+    "display_width": 1080,
+    "display_height": 1350
+  },
+  {
+    "source": "techsugi/bone/bone_28.png",
+    "full": "assets/techsugi/bone-28-full.jpg",
+    "thumb": "assets/techsugi/bone-28-thumb.jpg",
+    "width": 1080,
+    "height": 1350,
+    "thumb_width": 576,
+    "source_type": "techsugi",
+    "id": 102,
+    "display": "assets/techsugi/bone-28-display.jpg",
+    "display_width": 1080,
+    "display_height": 1350
+  },
+  {
+    "source": "techsugi/bone/bone_42.png",
+    "full": "assets/techsugi/bone-42-full.jpg",
+    "thumb": "assets/techsugi/bone-42-thumb.jpg",
+    "width": 1080,
+    "height": 1350,
+    "thumb_width": 576,
+    "source_type": "techsugi",
+    "id": 103,
+    "display": "assets/techsugi/bone-42-display.jpg",
+    "display_width": 1080,
+    "display_height": 1350
+  },
+  {
+    "source": "techsugi/Fiber/fiber1.png",
+    "full": "assets/techsugi/fiber-detail-full.jpg",
+    "thumb": "assets/techsugi/fiber-detail-thumb.jpg",
+    "width": 1080,
+    "height": 1350,
+    "thumb_width": 576,
+    "source_type": "techsugi",
+    "id": 104,
+    "display": "assets/techsugi/fiber-detail-display.jpg",
+    "display_width": 1080,
+    "display_height": 1350
+  },
+  {
+    "source": "techsugi/Fiber/fiber2.png",
+    "full": "assets/techsugi/fiber-form-full.jpg",
+    "thumb": "assets/techsugi/fiber-form-thumb.jpg",
+    "width": 1080,
+    "height": 1350,
+    "thumb_width": 576,
+    "source_type": "techsugi",
+    "id": 105,
+    "display": "assets/techsugi/fiber-form-display.jpg",
+    "display_width": 1080,
+    "display_height": 1350
+  },
+  {
+    "source": "techsugi/wick4.png",
+    "full": "assets/techsugi/branching-detail-full.jpg",
+    "thumb": "assets/techsugi/branching-detail-thumb.jpg",
+    "width": 1600,
+    "height": 2000,
+    "thumb_width": 576,
+    "source_type": "techsugi",
+    "id": 106,
+    "display": "assets/techsugi/branching-detail-display.jpg",
+    "display_width": 1120,
+    "display_height": 1400
+  },
+  {
+    "source": "techsugi/N1.png",
+    "full": "assets/techsugi/manhattan-lion-full.jpg",
+    "thumb": "assets/techsugi/manhattan-lion-thumb.jpg",
+    "width": 1920,
+    "height": 1080,
+    "thumb_width": 720,
+    "source_type": "techsugi",
+    "id": 107,
+    "display": "assets/techsugi/manhattan-lion-display.jpg",
+    "display_width": 1400,
+    "display_height": 787
+  },
+  {
+    "source": "techsugi/N3.png",
+    "full": "assets/techsugi/manhattan-lion-detail-full.jpg",
+    "thumb": "assets/techsugi/manhattan-lion-detail-thumb.jpg",
+    "width": 1920,
+    "height": 1080,
+    "thumb_width": 720,
+    "source_type": "techsugi",
+    "id": 108,
+    "display": "assets/techsugi/manhattan-lion-detail-display.jpg",
+    "display_width": 1400,
+    "display_height": 787
+  },
+  {
+    "source": "techsugi/n2.png",
+    "full": "assets/techsugi/manhattan-lion-variants-full.jpg",
+    "thumb": "assets/techsugi/manhattan-lion-variants-thumb.jpg",
+    "width": 1920,
+    "height": 1080,
+    "thumb_width": 720,
+    "source_type": "techsugi",
+    "id": 109,
+    "display": "assets/techsugi/manhattan-lion-variants-display.jpg",
+    "display_width": 1400,
+    "display_height": 787
+  },
+  {
+    "source": "techsugi/lionhead4_298.png",
+    "full": "assets/techsugi/manhattan-lion-mono-full.jpg",
+    "thumb": "assets/techsugi/manhattan-lion-mono-thumb.jpg",
+    "width": 1920,
+    "height": 1080,
+    "thumb_width": 720,
+    "source_type": "techsugi",
+    "id": 110,
+    "display": "assets/techsugi/manhattan-lion-mono-display.jpg",
+    "display_width": 1400,
+    "display_height": 787
+  },
+  {
+    "source": "techsugi/tatt1.png",
+    "full": "assets/techsugi/patterned-figures-dark-full.jpg",
+    "thumb": "assets/techsugi/patterned-figures-dark-thumb.jpg",
+    "width": 1125,
+    "height": 2000,
+    "thumb_width": 405,
+    "source_type": "techsugi",
+    "id": 111,
+    "display": "assets/techsugi/patterned-figures-dark-display.jpg",
+    "display_width": 787,
+    "display_height": 1400
+  },
+  {
+    "source": "techsugi/tatt2.png",
+    "full": "assets/techsugi/patterned-figures-gold-full.jpg",
+    "thumb": "assets/techsugi/patterned-figures-gold-thumb.jpg",
+    "width": 1125,
+    "height": 2000,
+    "thumb_width": 405,
+    "source_type": "techsugi",
+    "id": 112,
+    "display": "assets/techsugi/patterned-figures-gold-display.jpg",
+    "display_width": 787,
+    "display_height": 1400
+  },
+  {
+    "source": "techsugi/tile.jpg",
+    "full": "assets/techsugi/patterned-figure-map-full.jpg",
+    "thumb": "assets/techsugi/patterned-figure-map-thumb.jpg",
+    "width": 1091,
+    "height": 1458,
+    "thumb_width": 539,
+    "source_type": "techsugi",
+    "id": 113,
+    "display": "assets/techsugi/patterned-figure-map-display.jpg",
+    "display_width": 1047,
+    "display_height": 1400
+  },
+  {
+    "source": "techsugi/techsugi_304.png",
+    "full": "assets/techsugi/techsugi-panels-full.jpg",
+    "thumb": "assets/techsugi/techsugi-panels-thumb.jpg",
+    "width": 1920,
+    "height": 1080,
+    "thumb_width": 720,
+    "source_type": "techsugi",
+    "id": 114,
+    "display": "assets/techsugi/techsugi-panels-display.jpg",
+    "display_width": 1400,
+    "display_height": 787
+  },
+  {
+    "source": "techsugi/Cypher.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-cypher-full.jpg",
+    "thumb": "assets/techsugi/video-cypher-thumb.jpg",
+    "width": 720,
+    "height": 1186,
+    "thumb_width": 437,
+    "id": 115,
+    "display": "assets/techsugi/video-cypher-display.jpg",
+    "display_width": 720,
+    "display_height": 1186
+  },
+  {
+    "source": "techsugi/Grown.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-grown-full.jpg",
+    "thumb": "assets/techsugi/video-grown-thumb.jpg",
+    "width": 1119,
+    "height": 1600,
+    "thumb_width": 504,
+    "id": 116,
+    "display": "assets/techsugi/video-grown-display.jpg",
+    "display_width": 979,
+    "display_height": 1400
+  },
+  {
+    "source": "techsugi/Shoes 4.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-shoes-4-full.jpg",
+    "thumb": "assets/techsugi/video-shoes-4-thumb.jpg",
+    "width": 1600,
+    "height": 908,
+    "thumb_width": 720,
+    "id": 117,
+    "display": "assets/techsugi/video-shoes-4-display.jpg",
+    "display_width": 1400,
+    "display_height": 794
+  },
+  {
+    "source": "techsugi/TS.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-ts-full.jpg",
+    "thumb": "assets/techsugi/video-ts-thumb.jpg",
+    "width": 1600,
+    "height": 908,
+    "thumb_width": 720,
+    "id": 118,
+    "display": "assets/techsugi/video-ts-display.jpg",
+    "display_width": 1400,
+    "display_height": 794
+  },
+  {
+    "source": "techsugi/abstract.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-abstract-full.jpg",
+    "thumb": "assets/techsugi/video-abstract-thumb.jpg",
+    "width": 1600,
+    "height": 908,
+    "thumb_width": 720,
+    "id": 119,
+    "display": "assets/techsugi/video-abstract-display.jpg",
+    "display_width": 1400,
+    "display_height": 794
+  },
+  {
+    "source": "techsugi/armor.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-armor-full.jpg",
+    "thumb": "assets/techsugi/video-armor-thumb.jpg",
+    "width": 480,
+    "height": 642,
+    "thumb_width": 480,
+    "id": 120,
+    "display": "assets/techsugi/video-armor-display.jpg",
+    "display_width": 480,
+    "display_height": 642
+  },
+  {
+    "source": "techsugi/cloth_dance.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-cloth-dance-full.jpg",
+    "thumb": "assets/techsugi/video-cloth-dance-thumb.jpg",
+    "width": 1600,
+    "height": 908,
+    "thumb_width": 720,
+    "id": 121,
+    "display": "assets/techsugi/video-cloth-dance-display.jpg",
+    "display_width": 1400,
+    "display_height": 794
+  },
+  {
+    "source": "techsugi/patternDance.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-patterndance-full.jpg",
+    "thumb": "assets/techsugi/video-patterndance-thumb.jpg",
+    "width": 1024,
+    "height": 738,
+    "thumb_width": 720,
+    "id": 122,
+    "display": "assets/techsugi/video-patterndance-display.jpg",
+    "display_width": 1024,
+    "display_height": 738
+  },
+  {
+    "source": "techsugi/robo.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-robo-full.jpg",
+    "thumb": "assets/techsugi/video-robo-thumb.jpg",
+    "width": 1024,
+    "height": 1314,
+    "thumb_width": 561,
+    "id": 123,
+    "display": "assets/techsugi/video-robo-display.jpg",
+    "display_width": 1024,
+    "display_height": 1314
+  },
+  {
+    "source": "techsugi/rosa.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-rosa-full.jpg",
+    "thumb": "assets/techsugi/video-rosa-thumb.jpg",
+    "width": 1088,
+    "height": 1090,
+    "thumb_width": 719,
+    "id": 124,
+    "display": "assets/techsugi/video-rosa-display.jpg",
+    "display_width": 1088,
+    "display_height": 1090
+  },
+  {
+    "source": "techsugi/techsugi_1.mp4",
+    "source_type": "techsugi",
+    "full": "assets/techsugi/video-techsugi-1-full.jpg",
+    "thumb": "assets/techsugi/video-techsugi-1-thumb.jpg",
+    "width": 1600,
+    "height": 908,
+    "thumb_width": 720,
+    "id": 125,
+    "display": "assets/techsugi/video-techsugi-1-display.jpg",
+    "display_width": 1400,
+    "display_height": 794
+  },
+  {
+    "id": 126,
+    "source": "Galleon/art.png",
+    "source_type": "user-supplied",
+    "full": "assets/lab/modern-patterns-v2-full.jpg",
+    "width": 1200,
+    "height": 1788,
+    "thumb": "assets/lab/modern-patterns-v2-thumb.jpg",
+    "thumb_width": 483,
+    "display": "assets/lab/modern-patterns-v2-display.jpg",
+    "display_width": 939,
+    "display_height": 1400
+  },
+  {
+    "id": 127,
+    "source": "art/Manaoag/front.png",
+    "source_type": "user-supplied",
+    "full": "assets/manaoag/front-full.jpg",
+    "thumb": "assets/manaoag/front-thumb.jpg",
+    "width": 1379,
+    "height": 2000,
+    "thumb_width": 496,
+    "display": "assets/manaoag/front-display.jpg",
+    "display_width": 965,
+    "display_height": 1400
+  },
+  {
+    "id": 128,
+    "source": "art/Manaoag/DSCF1863.png",
+    "source_type": "user-supplied",
+    "full": "assets/manaoag/dscf1863-full.jpg",
+    "thumb": "assets/manaoag/dscf1863-thumb.jpg",
+    "width": 2000,
+    "height": 1333,
+    "thumb_width": 720,
+    "display": "assets/manaoag/dscf1863-display.jpg",
+    "display_width": 1400,
+    "display_height": 933
+  },
+  {
+    "id": 129,
+    "source": "art/Manaoag/DSCF1891.png",
+    "source_type": "user-supplied",
+    "full": "assets/manaoag/dscf1891-full.jpg",
+    "thumb": "assets/manaoag/dscf1891-thumb.jpg",
+    "width": 1333,
+    "height": 2000,
+    "thumb_width": 480,
+    "display": "assets/manaoag/dscf1891-display.jpg",
+    "display_width": 933,
+    "display_height": 1400
+  },
+  {
+    "id": 130,
+    "source": "art/Manaoag/DSCF1893.png",
+    "source_type": "user-supplied",
+    "full": "assets/manaoag/dscf1893-full.jpg",
+    "thumb": "assets/manaoag/dscf1893-thumb.jpg",
+    "width": 1333,
+    "height": 2000,
+    "thumb_width": 480,
+    "display": "assets/manaoag/dscf1893-display.jpg",
+    "display_width": 933,
+    "display_height": 1400
   }
 ]

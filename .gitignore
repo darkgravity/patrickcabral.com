@@ -1,6 +1,7 @@
 .DS_Store
-art/
+/art/
 generated_images/
 __pycache__/
 *.pyc
 *.zip
+techsugi-staging/

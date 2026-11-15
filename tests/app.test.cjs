@@ -118,6 +118,7 @@ function run({ stored, dark = false, blocked = false, selectors = {}, lists = {}
     querySelector: () => ({ alt: name })
   }));
   const env = run({ selectors: { '#lightbox': dialog, '#lightbox-image': image, '#lightbox-caption': caption, '#lightbox-close': close, '#lightbox-prev': previous, '#lightbox-next': next }, lists: { '[data-lightbox]': launches } });
+  assert.equal(image.src, undefined, 'full-size artwork is not requested before opening the lightbox');
   launches[0].dispatch('click');
   assert.equal(dialog.open, true);
   assert.equal(image.src, '/assets/elephant.jpg');

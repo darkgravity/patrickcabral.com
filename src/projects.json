@@ -17,11 +17,11 @@
       74
     ],
     "cover": 8,
-    "description": "Three animals. Three coffee-growing regions. A collection of intricately layered sculptures created for Starbucks Reserve at SM North Towers, Quezon City. The Sumatran tiger, Kenyan elephant, and Guatemalan quetzal translate the origins of coffee into pattern, texture, and relief.",
+    "description": "Created with the Starbucks Asia Pacific team in Hong Kong for the Reserve store at SM North Towers, these three layered-MDF sculptures trace the origins of coffee through wildlife. A Sumatran tiger, Kenyan elephant, and Guatemalan quetzal translate their regions into pattern, texture, and relief.",
     "alt": "Starbucks Reserve by Patrick Cabral",
     "medium": "Layered MDF",
     "title_status": "verified",
-    "context": "Created for the Reserve store at SM North Towers. This installation translates the visual language of paper cutting into layered MDF for a lasting architectural display.",
+    "context": "The installation carries Patrick’s paper-cutting language into a larger and more durable material. The tiger measures 110 × 110 × 20 cm; Patrick and Camy spent almost two months sanding, priming, painting, and airbrushing it. The Kenyan elephant measures 110 × 150 cm, while the quetzal represents Guatemala. Patrick’s brother Ian helped with mounting. Together, the sculptures show how a familiar studio process changes at architectural scale, with surface preparation and finishing becoming as important as the layered design.",
     "sources": [
       [
         "The Starbucks Reserve commission · adobo magazine",
@@ -30,6 +30,22 @@
       [
         "Material and process · Colossal",
         "https://www.thisiscolossal.com/2019/01/animals-patrick-cabral/"
+      ],
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/Br5BBClApfK/"
+      ],
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/BrkTfI4AC1b/"
+      ],
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/BrpeuOkg9X8/"
+      ],
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/BrmuBruAQdm/"
       ]
     ],
     "captions": {
@@ -44,32 +60,38 @@
       "87": "Elephant · layered detail",
       "88": "Tiger · layered detail",
       "89": "Tiger · layered detail"
-    }
+    },
+    "commission": "Starbucks Reserve"
   },
   {
     "slug": "langit-at-lupa",
-    "title": "Langit at Lupa",
+    "title": "Mananayaw ng Langit at Lupa",
     "category": "culture",
     "images": [
       59,
       60
     ],
     "cover": 59,
-    "description": "Two elaborate masks inspired by the energy and ornament of Dinagyang. Langit evokes air, flight, and dreams; Lupa evokes earth, fire, and passion. Together, they explore the meeting of calm and chaos.",
-    "alt": "Langit at Lupa by Patrick Cabral",
-    "medium": "Layered sculpture",
+    "description": "Dancers of Heaven and Earth: two masks made from archival coloured paper for the Dinagyang Festival in 2021. The blue bird, Langit, evokes air, flight, horizons, and dreams. The red and yellow dragon or buwaya, Lupa, brings together fire, earth, light, and passion.",
+    "alt": "Mananayaw ng Langit at Lupa, paired blue and red masks made from archival coloured paper",
+    "medium": "Archival coloured paper",
     "title_status": "verified",
-    "context": "Commissioned by the Iloilo Museum of Contemporary Art for the Dinagyang Festival. The pair is part of Mananayaw ng Langit at Lupa, or Dancers of Heaven and Earth.",
+    "context": "Commissioned by Edwin Valencia for the Iloilo Museum of Contemporary Art, the work is recorded at 32 × 38 inches. The paired figures explore duality through colour, movement, and layers of ornament. Their imagery draws together faith, trade, and worship, giving each mask a distinct character while allowing them to form a single conversation between the earthly and the celestial.",
     "sources": [
       [
         "The Dinagyang masks · Colossal",
         "https://www.thisiscolossal.com/2021/03/patrick-cabral-dinagyang-masks/"
+      ],
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/CKbFUQ3A0q8/"
       ]
     ],
     "captions": {
       "59": "Langit · air, flight, and dreams",
       "60": "Lupa · earth, fire, and passion"
-    }
+    },
+    "commission": "Edwin Valencia for ILOMOCA"
   },
   {
     "slug": "roosters-in-colour",
@@ -80,16 +102,25 @@
       17
     ],
     "cover": 46,
-    "description": "Two roosters meet in an expansive composition of colour and movement. Layered feathers open into rhythmic fans, transforming a charged encounter into an intricate sculptural silhouette.",
-    "alt": "Roosters in Colour by Patrick Cabral",
-    "medium": "Layered sculpture",
+    "description": "Roosters meet in expansive compositions of colour and movement. Layered feathers spread into rhythmic fans, with blue, red, gold, and violet turning their charged encounter into intricate sculptural silhouettes.",
+    "alt": "Colourful layered-paper rooster compositions with wide-spreading wings and intricate feathers",
+    "medium": "Layered coloured paper",
     "title_status": "descriptive",
     "sources": [
       [
         "Pattern and Filipino culture · Colossal",
         "https://www.thisiscolossal.com/2024/08/paper-sculptures-patrick-cabral/"
+      ],
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/C6ABTCxSugv/"
       ]
-    ]
+    ],
+    "context": "The landscape composition measures six by four feet and began as a self-initiated work. Patrick devoted about one working day each week to it over roughly a year. The limited range of coloured paper available shaped the palette, making colour selection part of the challenge alongside the scale and complexity of the layered feathers. The gallery also includes a separate portrait composition.",
+    "captions": {
+      "17": "Landscape composition · 6 × 4 feet, developed over roughly a year",
+      "46": "Portrait composition · layered feathers and colour"
+    }
   },
   {
     "slug": "parol",
@@ -213,10 +244,18 @@
       23
     ],
     "cover": 16,
-    "description": "A feline portrait surrounded by a radiating blue silhouette. Cool colour and layered pattern give this tiger a distinct expression and rhythm.",
-    "alt": "Tiger in Blue by Patrick Cabral",
+    "description": "A tiger portrait commissioned by Mentorque, with white layered features set against a radiating blue silhouette. Blue lines follow the face’s contours, bringing colour into the dense ornament around its eyes, cheeks, and muzzle.",
+    "alt": "White tiger portrait with blue ornamental details and a radiating blue perimeter",
     "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "context": "This commission was Patrick’s first blue tiger. The result surprised him: the unfamiliar colour worked well with the layered construction, giving the portrait a new character while retaining the symmetry and fine detail of his animal work.",
+    "commission": "Mentorque",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/C14IxYGLmkd/"
+      ]
+    ]
   },
   {
     "slug": "tiger-in-gold",
@@ -366,16 +405,17 @@
   },
   {
     "slug": "owl",
-    "title": "Owl",
+    "title": "British Shorthair Cat",
     "category": "sculpture",
     "images": [
       66
     ],
     "cover": 66,
-    "description": "An owl rendered in a dark, densely patterned relief. Its upright silhouette and luminous eyes remain distinct within a finely detailed surface.",
-    "alt": "Owl by Patrick Cabral",
-    "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "description": "A British Shorthair cat rendered in intricately layered blue-grey paper. Golden eyes and rounded cheeks give the seated figure its character, while delicate repeating patterns trace the body and curled tail.",
+    "alt": "Layered blue-grey paper sculpture of a British Shorthair cat with golden eyes by Patrick Cabral",
+    "medium": "Layered paper sculpture",
+    "title_status": "verified",
+    "content_source": "Subject identified by Patrick Cabral as a British Shorthair cat, 14 November 2026."
   },
   {
     "slug": "bee",
@@ -407,30 +447,45 @@
   },
   {
     "slug": "penguin",
-    "title": "Penguin",
+    "title": "Penguin Books",
     "category": "sculpture",
     "images": [
       24,
       33
     ],
     "cover": 24,
-    "description": "A patterned white penguin framed by deep, stepped layers. Two views show the figure against warm red and amber backgrounds.",
-    "alt": "Penguin by Patrick Cabral",
-    "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "description": "Commissioned by Paul Buckley for Penguin Books’ New York headquarters, a white penguin sits within a deep field of warm, stepped colour. The project connects Patrick’s paper practice with a publisher whose books helped shape his curiosity as a child.",
+    "alt": "White layered-paper penguin against a stepped red and amber background, commissioned for Penguin Books",
+    "medium": "Layered paper",
+    "title_status": "descriptive",
+    "commission": "Penguin Books",
+    "context": "Patrick had long admired Buckley’s work, including his collaborations with Alex Trochut. The commission also brought back memories of a childhood Random House encyclopedia, through which Patrick encountered subjects such as Albrecht Dürer and Frank Lloyd Wright’s Fallingwater. Finding the right background was a separate challenge: Patrick and Camy repeatedly repainted its layers, mixing a difficult gradient until the colours gave the white figure enough contrast. Shared in July 2019, the piece records both a personal connection to books and the patient work behind its apparently simple colour transitions.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/Bzc-xk_AWkP/"
+      ]
+    ]
   },
   {
     "slug": "cockatoo",
-    "title": "Cockatoo",
+    "title": "Philippine Cockatoo",
     "category": "sculpture",
     "images": [
       53
     ],
     "cover": 53,
-    "description": "A crested bird perched on a branch. Layers of pale ornament articulate the feathers, while its lifted crest creates an expressive profile.",
-    "alt": "Cockatoo by Patrick Cabral",
+    "description": "A Philippine cockatoo perched on a branch, its raised crest and curved beak framed by fine layers of feather-like ornament. The pale construction brings out the changing rhythms of the wings, chest, and long tail.",
+    "alt": "Pale layered Philippine cockatoo with a raised crest, perched on a branch",
     "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "context": "The second of a three-bird commission, this work depicts a species endemic to the Philippines. Together with the Palawan peacock-pheasant and Palawan hornbill, it forms a collection devoted to the country’s wildlife, translating each bird’s character into a distinct sculptural profile.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/CGR61fkghEh/"
+      ]
+    ]
   },
   {
     "slug": "horses",
@@ -453,10 +508,17 @@
       32
     ],
     "cover": 32,
-    "description": "A white shark suspended within a framed composition. Its long, recognisable silhouette is filled with carefully arranged surface detail.",
-    "alt": "Shark by Patrick Cabral",
+    "description": "A four-foot-wide shark made for a commission in Hong Kong. Its long, pale body stretches across a dark framed background, with overlapping patterns giving the fins and flanks a sense of movement.",
+    "alt": "Four-foot-wide pale shark relief in a dark horizontal frame, commissioned for Hong Kong",
     "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "context": "The streamlined silhouette required repeated revisions. Patrick’s project notes record the head at roughly its fourth version, showing how much adjustment sits behind a form that reads immediately as a shark. The finished relief brings that recognisable outline together with intricate surface detail.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/BtqFHMJAcp6/"
+      ]
+    ]
   },
   {
     "slug": "pangolin",
@@ -532,10 +594,17 @@
       91
     ],
     "cover": 91,
-    "description": "A golden dragon stretches across the composition in a series of flowing curves. Fine repeating detail follows the length of the body and reaches into the smallest features.",
-    "alt": "Golden Dragon by Patrick Cabral",
-    "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "description": "A six-foot-wide golden dragon built from approximately two hundred layers of gold PVC sheets. Its long body rises and falls in sweeping curves, with closely repeated scales leading into finely articulated claws, whiskers, and horns.",
+    "alt": "Six-foot-wide golden dragon made from approximately two hundred layers of gold PVC sheets",
+    "medium": "Layered gold PVC",
+    "title_status": "descriptive",
+    "context": "Patrick began this work in November 2017 and shared it in 2018. The gold PVC gives the dragon a material character distinct from his paper sculptures, while the repeated layers retain the same attention to depth and fine detail. A dark background makes the full length of its winding silhouette visible.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/Bll6gKUhHFR/"
+      ]
+    ]
   },
   {
     "slug": "winged-figures",
@@ -552,29 +621,76 @@
   },
   {
     "slug": "figure-in-motion",
-    "title": "Figure in Motion",
+    "title": "Honkai Impact 3rd",
     "category": "sculpture",
     "images": [
       64
     ],
     "cover": 64,
-    "description": "A pale figure rises above a sweeping red form. Fine ornament and an elongated silhouette create a theatrical sense of motion.",
-    "alt": "Figure in Motion by Patrick Cabral",
-    "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "description": "A commissioned artwork for Honkai Impact 3rd’s fourth-anniversary giveaway, this figure translates a game character into approximately fifty layers of paper. White hair, armour, a sword, and a sweeping red cape bring the character’s movement into a dimensional composition.",
+    "alt": "White-haired Honkai Impact 3rd character with a sword and red cape, built from approximately fifty paper layers",
+    "medium": "Layered paper",
+    "title_status": "descriptive",
+    "commission": "Honkai Impact 3rd",
+    "context": "This was Patrick’s first full-bodied human figure in layered paper, extending a practice previously centred on animals and ornamental forms. The commission also had a personal connection: the character was a favourite of his niece. Patrick recorded the making process, showing how many separate paper layers come together to create the pose, costume, and depth of the finished work.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/CXBC5a5lot5/"
+      ],
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/CVcFGGipIFI/"
+      ]
+    ]
   },
   {
     "slug": "madonna-and-child",
-    "title": "Madonna & Child",
+    "title": "Our Lady of Peñafrancia",
     "category": "culture",
     "images": [
       70
     ],
     "cover": 70,
-    "description": "A crowned mother and child framed by a delicate radiating halo. Ornamental layers shape the sweeping robes, moving between gold, white, blue, and warm red.",
-    "alt": "Madonna & Child by Patrick Cabral",
-    "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "description": "A layered paper interpretation of Our Lady of Peñafrancia, affectionately called Ina. Created for Patrick’s friends Sweet and Joseph, the piece celebrates a milestone in their lives while holding close the faith, friendships, and sense of home that shaped them.",
+    "alt": "Our Lady of Peñafrancia with the Child Jesus, depicted in ornate layered paper with a radiating halo",
+    "medium": "Layered paper sculpture",
+    "title_status": "verified",
+    "context": "Patrick and Joseph’s friendship reaches back to childhood, when they served together as altar boys. They later shared a home while studying in Naga City, and again when they began working in Manila. Delivered to Joseph and Sweet as they built their life in Dallas, the sculpture became a reminder of where they came from. When it was unpacked, several of those present were also devotees of Ina, turning the occasion into an unexpected moment of shared devotion.",
+    "captions": {
+      "70": "Our Lady of Peñafrancia · Ina"
+    },
+    "sources": [
+      [
+        "The story of Sweet, Joseph, and Ina · Instagram",
+        "https://www.instagram.com/darkgravity/p/C1LUSjHp46y/"
+      ]
+    ],
+    "content_source": "Artwork identity confirmed by Patrick Cabral; story cross-checked against his Instagram caption"
+  },
+  {
+    "slug": "manaoag",
+    "title": "Our Lady of Manaoag",
+    "category": "culture",
+    "images": [
+      127,
+      128,
+      129,
+      130
+    ],
+    "cover": 127,
+    "description": "A layered paper interpretation of Our Lady of Manaoag, holding the Child Jesus beneath an ornate golden crown and halo. Deep blue, plum, and gold frame the figures, while curling foliage and a layered flower surround them with intricate ornament.",
+    "context": "Lace-like cutwork runs through the robes, halo, and foliage. Stacked paper creates depth through real edges and shadows, with details extending from the faces and crowns to the rosary and the flower at the base of the composition.",
+    "alt": "Our Lady of Manaoag holding the Child Jesus, a layered paper sculpture in blue, plum, green, and gold by Patrick Cabral",
+    "medium": "Layered paper sculpture",
+    "title_status": "verified",
+    "content_source": "Artist-supplied Manaoag project folder, 14 November 2026. Description based on the four supplied artwork photographs.",
+    "captions": {
+      "127": "Our Lady of Manaoag · full composition",
+      "128": "Our Lady of Manaoag · faces, crowns, and layered cutwork",
+      "129": "Our Lady of Manaoag · rosary and curling foliage",
+      "130": "Our Lady of Manaoag · layered flower detail"
+    }
   },
   {
     "slug": "dragon-and-koi",
@@ -591,7 +707,7 @@
   },
   {
     "slug": "architectural-relief",
-    "title": "Architecture in Relief",
+    "title": "Royal Mint · Money Heist",
     "category": "sculpture",
     "images": [
       0,
@@ -600,10 +716,18 @@
       25
     ],
     "cover": 0,
-    "description": "A classical building reimagined through layers of white ornament. Detail photographs move from the full façade into the architectural rhythm of columns, windows, and decorative edges.",
-    "alt": "Architecture in Relief by Patrick Cabral",
-    "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "description": "Created with Netflix Philippines for Money Heist, this paper interpretation of the Royal Mint of Spain turns a symbol of institutional power into something delicate. Its white façade is built from intricate layers, with ornamental detail inspired by the engraved lines of banknotes.",
+    "alt": "The Royal Mint of Spain rendered in white layered paper for Netflix Philippines and Money Heist",
+    "medium": "Layered paper",
+    "title_status": "descriptive",
+    "commission": "Netflix Philippines",
+    "context": "Patrick chose the Royal Mint rather than the series’ familiar Dalí mask because architecture offered a new challenge. The building represents the system at the heart of the story; rendering it in fragile paper creates a tension between authority and vulnerability. Published in September 2021, the project brings the precision of architectural relief together with the visual language of currency. Detail views reveal the columns, windows, and decorative edges that give the façade its depth.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/CTRi3Iyq7Yt/"
+      ]
+    ]
   },
   {
     "slug": "darth-vader",
@@ -620,17 +744,29 @@
   },
   {
     "slug": "wolf-characters",
-    "title": "Wolf Characters",
+    "title": "Cha Long Wolves",
     "category": "sculpture",
     "images": [
       95,
       78
     ],
     "cover": 95,
-    "description": "Two playful wolf portraits pair layered faces with stylised streetwear. Coloured caps and jackets give each character a distinct personality.",
-    "alt": "Wolf Characters by Patrick Cabral",
-    "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "description": "Commissioned by Maxim’s Hong Kong for its Cha Long brand, these wolf characters are built from laser-cut plywood. Layered faces, expressive clothing, and carefully painted details turn the brand’s characters into dimensional portraits.",
+    "alt": "Cha Long wolf character assembled from laser-cut, painted plywood layers",
+    "medium": "Painted layered plywood",
+    "title_status": "descriptive",
+    "commission": "Maxim’s Hong Kong / Cha Long",
+    "context": "The project adapts the visual language of Patrick’s paper work to wood. Patrick handled sanding while Camy painted the layers, a division of work that brought the complex construction and colour together. The second wolf’s hat alone used roughly twenty colours. The finished characters combine the precision of laser cutting with the patient surface work required to give each painted layer its own presence.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/BkjxW9BHLkd/"
+      ],
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/BpB8gYYg-Jj/"
+      ]
+    ]
   },
   {
     "slug": "ornamental-creature",
@@ -647,16 +783,23 @@
   },
   {
     "slug": "primate-portrait",
-    "title": "Primate Portrait",
+    "title": "Baboon with Bitcoin",
     "category": "sculpture",
     "images": [
       57
     ],
     "cover": 57,
-    "description": "An expressive primate portrait with warm earth tones and a vividly coloured face. Repeated contours build outward into a broad, symmetrical silhouette.",
-    "alt": "Primate Portrait by Patrick Cabral",
-    "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "description": "A commissioned baboon holding a Bitcoin coin, inspired by the Egyptian deity Thoth. A warm red face sits within a broad metallic mane, while patterned hands, arms, and legs gather around the gold coin at its centre.",
+    "alt": "Metallic-paper baboon with a red face holding a gold Bitcoin coin",
+    "medium": "Layered metallic paper",
+    "title_status": "descriptive",
+    "context": "Made for a patron to celebrate cryptocurrency and Bitcoin, this was Patrick’s first work created entirely from metallic paper. The commission brings an ancient source of imagery into conversation with a contemporary symbol, using the reflective material to distinguish the face, fur, and coin.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/reel/CXGUiZiJvqM/"
+      ]
+    ]
   },
   {
     "slug": "lettering-in-relief",
@@ -670,7 +813,8 @@
     "description": "Bold lettering surrounded by a dense arrangement of botanical ornament. White layers and deep shadows set the directness of the word against the delicacy of its sculptural setting.",
     "alt": "Ornamental white layered sculpture spelling FUCK by Patrick Cabral",
     "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "archived": true
   },
   {
     "slug": "white-lettering",
@@ -683,7 +827,8 @@
     "description": "A typographic composition built from close-set white layers. Letterforms sit within a field of repeated contours, creating a quiet interplay of language and relief.",
     "alt": "White Lettering by Patrick Cabral",
     "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "archived": true
   },
   {
     "slug": "calligraphic-monogram",
@@ -696,7 +841,8 @@
     "description": "A flowing monogram rendered in vivid turquoise and green. Sweeping letterforms bring the movement of calligraphy into a dimensional composition.",
     "alt": "Calligraphic Monogram by Patrick Cabral",
     "medium": "Layered sculpture",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "archived": true
   },
   {
     "slug": "faceted-vessel",
@@ -725,7 +871,8 @@
     "description": "An open ovoid structure with a metallic finish. Interconnected cells define a form through its empty spaces as much as through its surface.",
     "alt": "Lattice Form by Patrick Cabral",
     "medium": "Digital study",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "series": "Techsugi"
   },
   {
     "slug": "organic-forms",
@@ -733,27 +880,50 @@
     "category": "experiments",
     "images": [
       14,
-      18
+      18,
+      100,
+      101,
+      102,
+      103
     ],
     "cover": 14,
-    "description": "Flowing white forms with deep openings and layered surface rhythms. These related studies explore the balance between a continuous outer shape and its internal spaces.",
+    "description": "Flowing white forms with deep openings and layered surface rhythms. Seen from multiple angles, the continuous outer shell breaks into folds, channels, and porous spaces.",
     "alt": "Organic Forms by Patrick Cabral",
     "medium": "Digital study",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "context": "The Bone image sequence in the Techsugi archive records the form through changing viewpoints. These selected views extend the original two studies, revealing how the openings and overlapping surfaces change around the object.",
+    "captions": {
+      "100": "Bone study · porous surface",
+      "101": "Bone study · layered side",
+      "102": "Bone study · folded channels",
+      "103": "Bone study · alternate view"
+    },
+    "series": "Techsugi"
   },
   {
     "slug": "chromatic-form",
-    "title": "Chromatic Form",
+    "title": "Philippine Basketry · Fiber",
     "category": "experiments",
     "images": [
       13,
-      72
+      72,
+      105,
+      104
     ],
     "cover": 13,
-    "description": "An ovoid study animated by flowing bands of colour. A full view and close-up reveal the intricate paths that weave across and through its surface.",
-    "alt": "Chromatic Form by Patrick Cabral",
-    "medium": "Digital study",
-    "title_status": "descriptive"
+    "description": "An algorithmic study inspired by Philippine basketry. Given a three-dimensional silhouette, the system generates an intricate woven structure that follows its form. In Fiber, fine coloured strands trace the folds and openings of an ovoid surface.",
+    "alt": "Fine coloured strands following the folds of an ovoid form in Philippine Basketry · Fiber",
+    "medium": "Procedural basketry study",
+    "title_status": "verified",
+    "context": "The experiment translates the structural logic of basketry into a flexible digital process. Full views and close details reveal how many individual paths describe the same continuous form. The method can also extend to moving forms.",
+    "captions": {
+      "13": "Philippine Basketry · Fiber full view",
+      "72": "Philippine Basketry · Fiber detail",
+      "105": "Philippine Basketry · Fiber dark-ground view",
+      "104": "Philippine Basketry · Fiber flowing colour detail"
+    },
+    "series": "Techsugi",
+    "content_source": "Artist-supplied project notes, 14 November 2026"
   },
   {
     "slug": "branching-tree",
@@ -766,7 +936,8 @@
     "description": "A digital study of branching structure. Fine lines accumulate into a tree-like form, exploring growth through repeated divisions.",
     "alt": "Branching Tree by Patrick Cabral",
     "medium": "Digital study",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "series": "Techsugi"
   },
   {
     "slug": "branching-figure",
@@ -774,13 +945,19 @@
     "category": "experiments",
     "images": [
       21,
-      73
+      73,
+      106
     ],
     "cover": 21,
-    "description": "The human silhouette interpreted as a network of fine branching paths. Two treatments explore the relationship between organic growth and circuit-like structure.",
+    "description": "The human silhouette interpreted as a network of fine branching paths. Full figures and a closer view explore the relationship between organic growth and a recognisable body.",
     "alt": "Branching Figure by Patrick Cabral",
     "medium": "Digital study",
-    "title_status": "descriptive"
+    "title_status": "descriptive",
+    "context": "The Techsugi archive brings together delicate line figures and a warm-toned detail of a head and shoulders. The close view reveals how the branching structure fills the silhouette while leaving its interior open.",
+    "captions": {
+      "106": "Branching figure · head and shoulder detail"
+    },
+    "series": "Techsugi"
   },
   {
     "slug": "twisting-forms",
@@ -803,10 +980,17 @@
       34
     ],
     "cover": 34,
-    "description": "Two slender towers shaped by stacked, shifting layers. Their changing profiles explore how repetition can suggest movement within a static form.",
-    "alt": "Tower Studies by Patrick Cabral",
-    "medium": "Digital study",
-    "title_status": "descriptive"
+    "description": "An award concept built around the letter T in a client’s logo. Stacked, shifting profiles turn the letter into two slender skyscraper forms, exploring how a graphic identity might become a sculptural object.",
+    "alt": "Two digital trophy concepts shaped as slender towers derived from the letter T",
+    "medium": "Digital award concept",
+    "title_status": "descriptive",
+    "context": "The original request was for a certificate; Patrick proposed a trophy instead. Paper was the intended material, but the images document the design study rather than a manufactured award. The concept uses repetition and changing outlines to move between a recognisable letter, an architectural silhouette, and an object that could mark an achievement.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/BebzYkZBCfK/"
+      ]
+    ]
   },
   {
     "slug": "chair-studies",
@@ -823,16 +1007,22 @@
   },
   {
     "slug": "pattern-field",
-    "title": "Pattern Field",
+    "title": "Topographical Beads",
     "category": "experiments",
     "images": [
       22
     ],
     "cover": 22,
-    "description": "An all-over study of interlocking colour and repeating motifs. The close composition explores pattern as a continuous field rather than a single central object.",
-    "alt": "Pattern Field by Patrick Cabral",
-    "medium": "Digital study",
-    "title_status": "descriptive"
+    "description": "Philippine landscapes translated into digital beadwork. Geographical contours and elevation lines become thousands of densely arranged, coloured spheres, giving the shape of the land a tactile, patterned presence.",
+    "alt": "Topographical Beads by Patrick Cabral, coloured digital spheres arranged in layered geographical contours",
+    "medium": "Algorithmic beadwork",
+    "title_status": "verified",
+    "series": "Techsugi",
+    "context": "The work connects cartography with the careful repetition of traditional beadwork. The landscape becomes a crafted surface, inviting the viewer to read its ridges, valleys, and changing elevations through colour and detail.",
+    "captions": {
+      "22": "Topographical Beads · contours in digital beadwork"
+    },
+    "content_source": "Artist-supplied project notes, 14 November 2026"
   },
   {
     "slug": "chromatic-mask",
@@ -875,29 +1065,43 @@
   },
   {
     "slug": "peacock",
-    "title": "Peacock",
+    "title": "Palawan Peacock-Pheasant",
     "images": [
       54
     ],
     "cover": 54,
-    "description": "A crested bird with a long, broad tail. Layered pattern gives depth to the feathers and follows the elegant outline of the body.",
+    "description": "A Palawan peacock-pheasant, a species endemic to the Philippines, rendered in intricate pale layers. Its upright crest, folded wings, and broad trailing tail turn the bird’s distinctive silhouette into a study of feather patterns and depth.",
     "category": "sculpture",
     "medium": "Layered sculpture",
-    "alt": "Peacock by Patrick Cabral",
-    "title_status": "descriptive"
+    "alt": "Palawan peacock-pheasant with a tall crest and long layered tail in pale sculpted feathers",
+    "title_status": "descriptive",
+    "context": "The first of three birds made for the same client, this work begins a commission celebrating Philippine wildlife. The series also includes the Philippine cockatoo and Palawan hornbill. Its focus on native species connects the patient work of making with a concern for environmental sustainability.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/CGHiaGhA4fT/"
+      ]
+    ]
   },
   {
     "slug": "hornbill",
-    "title": "Hornbill",
+    "title": "Palawan Hornbill",
     "images": [
       55
     ],
     "cover": 55,
-    "description": "A hornbill perched on a branch, its distinctive beak and casque forming a striking profile. Fine layered detail continues across the wings and body.",
+    "description": "The Palawan hornbill’s curved beak and prominent casque give this perched bird its unmistakable profile. Fine layered detail runs from the head through the folded wings to the long tail, giving a pale silhouette depth and texture.",
     "category": "sculpture",
     "medium": "Layered sculpture",
-    "alt": "Hornbill by Patrick Cabral",
-    "title_status": "descriptive"
+    "alt": "Pale layered Palawan hornbill perched on a branch, with a prominent casque and long tail",
+    "title_status": "descriptive",
+    "context": "This is the final bird in a three-piece commission featuring species endemic to the Philippines. Made for the same client as the Palawan peacock-pheasant and Philippine cockatoo, it completes a collection shaped by the variety of the country’s native wildlife.",
+    "sources": [
+      [
+        "Artist’s project notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/CGhZE28AOMk/"
+      ]
+    ]
   },
   {
     "slug": "stormtrooper",
@@ -914,15 +1118,355 @@
   },
   {
     "slug": "ribbed-organic-form",
-    "title": "Ribbed Organic Form",
+    "title": "Philippine Basketry · Woven Form",
     "images": [
       11
     ],
     "cover": 11,
-    "description": "A warm-toned ovoid formed from finely interlocking ribs. The dense surface opens into an intricate network of organic cavities.",
+    "description": "Philippine basketry translated into a procedural structure. The algorithm accepts a three-dimensional silhouette and generates a complex woven surface, allowing the underlying form to guide the arrangement of its details.",
     "category": "experiments",
-    "medium": "Form exploration",
-    "alt": "Ribbed Organic Form by Patrick Cabral",
-    "title_status": "descriptive"
+    "medium": "Procedural basketry study",
+    "alt": "A warm-toned ovoid with interlocking woven structures in Philippine Basketry · Woven Form",
+    "title_status": "verified",
+    "series": "Techsugi",
+    "context": "This warm-toned study explores density, depth, and the spaces between interlocking elements. Part of the Philippine Basketry experiments, the same approach can extend from still objects to moving forms.",
+    "captions": {
+      "11": "Philippine Basketry · Woven Form"
+    },
+    "content_source": "Artist-supplied project notes, 14 November 2026"
+  },
+  {
+    "slug": "manhattan-lion",
+    "title": "Geometric Lion",
+    "title_status": "descriptive",
+    "category": "experiments",
+    "medium": "Digital form study",
+    "description": "A lion-like face built from interlocking, stepped planes. Bright colour separates the angular pieces, while a monochrome version brings the structure and depth of the relief into focus.",
+    "context": "Full views, a close detail, and a three-version comparison from the Techsugi archive show how colour and surface treatment change the same geometric language.",
+    "alt": "A geometric lion-like face with interlocking stepped surfaces by Patrick Cabral",
+    "images": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "cover": 107,
+    "captions": {
+      "107": "Full form · colour study",
+      "108": "Close detail · interlocking planes",
+      "109": "Three surface treatments",
+      "110": "Monochrome relief study"
+    },
+    "series": "Techsugi"
+  },
+  {
+    "slug": "patterned-figures",
+    "title": "Kalinga Tattoo Patterns",
+    "title_status": "verified",
+    "category": "experiments",
+    "medium": "Algorithmic pattern study",
+    "description": "An algorithmic study inspired by the pattern language of traditional Kalinga tattooing. Repetition, rhythm, and placement become starting points for a contemporary interpretation through code.",
+    "context": "Applied to digital figures, the generated patterns follow the contours of the body. The study explores the relationship between a patterned surface and the form it inhabits.",
+    "alt": "Digital figures covered in algorithmic patterns inspired by traditional Kalinga tattooing",
+    "images": [
+      112,
+      111,
+      113
+    ],
+    "cover": 112,
+    "captions": {
+      "112": "Kalinga Tattoo Patterns · gold surface study",
+      "111": "Kalinga Tattoo Patterns · dark surface study",
+      "113": "Kalinga Tattoo Patterns · monochrome figure study"
+    },
+    "series": "Techsugi",
+    "content_source": "Artist-supplied project notes, 14 November 2026"
+  },
+  {
+    "slug": "quantum-dance",
+    "title": "Textile Physics",
+    "title_status": "verified",
+    "category": "experiments",
+    "medium": "Houdini · procedural textiles",
+    "description": "An experiment in making digital textiles easier to art-direct, from the shape of a fold to the way a surface moves. Fabric becomes a material for choreography, guided as deliberately as a sculptor shapes a surface.",
+    "context": "The accompanying film, Quantum Dance, demonstrates a Houdini system that develops fabric-like forms from an edge or path. Noise remapping drives the motion, while curvature controls the appearance of creases. The study explores how an artist can guide textile form and behaviour with greater control.",
+    "alt": "Quantum Dance, a demonstration of Patrick Cabral’s Textile Physics experiment",
+    "sources": [
+      [
+        "Instagram · Quantum Dance",
+        "https://www.instagram.com/darkgravity/reel/CgOql1rJ0S5/"
+      ]
+    ],
+    "videos": [
+      {
+        "src": "assets/techsugi/cloth-dance.mp4",
+        "poster": "assets/techsugi/video-cloth-dance-full.jpg",
+        "title": "Textile Physics · Quantum Dance",
+        "source": "techsugi/cloth_dance.mp4",
+        "duration_seconds": 50.0
+      }
+    ],
+    "images": [
+      121
+    ],
+    "cover": 121,
+    "captions": {
+      "121": "Textile Physics · a frame from Quantum Dance"
+    },
+    "series": "Techsugi",
+    "content_source": "Artist-supplied project notes, 14 November 2026"
+  },
+  {
+    "slug": "techsugi-panels",
+    "title": "Modern Patterns",
+    "title_status": "verified",
+    "category": "experiments",
+    "medium": "Houdini · Manhattan Voronoi patterns",
+    "description": "An evolution of Patrick’s earlier weaving experiments, Modern Patterns reimagines textile structures through the geometry of Manhattan Voronoi. Interlocking shapes draw on the visual language of science fiction, skyscrapers, and circuit boards.",
+    "context": "The work is inspired by the T’boli Dreamweavers and the stories carried through their textiles. Growing up alongside rapid technological change, Patrick draws from the images and structures of his own era to explore how a personal story might take the form of a pattern.",
+    "alt": "Interlocking geometric surfaces from Modern Patterns by Patrick Cabral",
+    "sources": [
+      [
+        "Artist’s generative surface notes · Instagram",
+        "https://www.instagram.com/darkgravity/p/CppXsGIL_yX/"
+      ]
+    ],
+    "videos": [
+      {
+        "src": "assets/techsugi/abstract.mp4",
+        "poster": "assets/techsugi/video-abstract-full.jpg",
+        "title": "Modern Patterns · Panel Variations",
+        "source": "techsugi/abstract.mp4",
+        "duration_seconds": 50.04
+      },
+      {
+        "src": "assets/techsugi/techsugi-1.mp4",
+        "poster": "assets/techsugi/video-techsugi-1-full.jpg",
+        "title": "Modern Patterns · Coloured Surface",
+        "source": "techsugi/techsugi_1.mp4",
+        "duration_seconds": 50.04
+      },
+      {
+        "src": "assets/techsugi/ts.mp4",
+        "poster": "assets/techsugi/video-ts-full.jpg",
+        "title": "Techsugi Mark · related identity study",
+        "source": "techsugi/TS.mp4",
+        "duration_seconds": 10.05
+      }
+    ],
+    "images": [
+      114,
+      119,
+      125,
+      118,
+      126
+    ],
+    "cover": 114,
+    "captions": {
+      "114": "Modern Patterns · surface detail",
+      "119": "Modern Patterns · paired reliefs",
+      "125": "Modern Patterns · coloured surface",
+      "118": "Techsugi · transforming mark",
+      "126": "Modern Patterns · Version 2, an image translated through the digital loom"
+    },
+    "series": "Techsugi",
+    "content_source": "Artist-supplied project notes, 14 November 2026",
+    "study_sections": [
+      {
+        "title": "Version 2 · A digital loom",
+        "description": "The second version uses dynamic tessellation to translate an image or video into an intricate pattern in real time. Acting as a digital loom, the system continually rebuilds its structure in response to the incoming imagery. This still demonstrates the process through a reinterpretation of Girl with a Pearl Earring.",
+        "image": 126
+      }
+    ]
+  },
+  {
+    "slug": "generative-footwear",
+    "title": "Generative Footwear",
+    "title_status": "descriptive",
+    "category": "experiments",
+    "medium": "Houdini · generative fashion",
+    "description": "A sculptural shoe built from clustered geometric volumes. Colour separates the growing forms as they wrap around the upper and extend into a segmented sole.",
+    "context": "Created with a custom three-dimensional Manhattan Voronoi generator in Houdini. Patrick developed the workflow while exploring generative fashion, replacing the repeated resculpting that changes to 3D-printing designs had required in ZBrush with a more adaptable procedural approach.",
+    "alt": "A digital shoe with colourful segmented volumes by Patrick Cabral",
+    "sources": [
+      [
+        "Instagram · generative fashion process",
+        "https://www.instagram.com/darkgravity/reel/CcFjQ3fgnHD/"
+      ]
+    ],
+    "videos": [
+      {
+        "src": "assets/techsugi/shoes-4.mp4",
+        "poster": "assets/techsugi/video-shoes-4-full.jpg",
+        "title": "Footwear Study",
+        "source": "techsugi/Shoes 4.mp4",
+        "duration_seconds": 60.03
+      }
+    ],
+    "images": [
+      117
+    ],
+    "cover": 117,
+    "captions": {
+      "117": "Generative footwear · rotating study"
+    },
+    "series": "Techsugi"
+  },
+  {
+    "slug": "grown",
+    "title": "Grown",
+    "title_status": "verified",
+    "category": "experiments",
+    "medium": "Algorithmic garment study",
+    "description": "A digital garment imagined as something that grows around the body. Inspired by the intricate pathways of mycelial networks, its details gather into a silhouette with the character of a living organism.",
+    "context": "Growth becomes a way of thinking about structure. The study explores how individual forms can spread, connect, and accumulate around a figure, creating a garment that appears to have bloomed into shape.",
+    "alt": "A digital garment of colourful organic forms growing around a figure in Grown",
+    "sources": [],
+    "videos": [
+      {
+        "src": "assets/techsugi/grown.mp4",
+        "poster": "assets/techsugi/video-grown-full.jpg",
+        "title": "Grown",
+        "source": "techsugi/Grown.mp4",
+        "duration_seconds": 21.35
+      }
+    ],
+    "images": [
+      116
+    ],
+    "cover": 116,
+    "captions": {
+      "116": "Grown · a garment imagined through organic growth"
+    },
+    "series": "Techsugi",
+    "content_source": "Artist-supplied project notes, 14 November 2026"
+  },
+  {
+    "slug": "digital-armour",
+    "title": "Digital Armour",
+    "title_status": "descriptive",
+    "category": "experiments",
+    "medium": "Digital motion studies",
+    "description": "Dark fitted armour and a segmented head explore the boundary between a body and a constructed surface. Reflective plates, narrow seams, and accents of light give the figures a mechanical character.",
+    "context": "The Robo head demonstrates a sci-fi panel generator built in Houdini to simplify hard-surface modelling, with clean topology intended for use in games. Patrick cited MGXS as an inspiration for this experiment. It appears here alongside a separate fitted-armour study from the Techsugi archive.",
+    "alt": "Digital Armour by Patrick Cabral",
+    "sources": [
+      [
+        "Artist’s Robo and panel-generator notes · Instagram",
+        "https://www.instagram.com/darkgravity/reel/CdVd5LgJo1z/"
+      ]
+    ],
+    "videos": [
+      {
+        "src": "assets/techsugi/armor.mp4",
+        "poster": "assets/techsugi/video-armor-full.jpg",
+        "title": "Armour Study",
+        "source": "techsugi/armor.mp4",
+        "duration_seconds": 299.99
+      },
+      {
+        "src": "assets/techsugi/robo.mp4",
+        "poster": "assets/techsugi/video-robo-full.jpg",
+        "title": "Robo",
+        "source": "techsugi/robo.mp4",
+        "duration_seconds": 12.01
+      }
+    ],
+    "images": [
+      120,
+      123
+    ],
+    "cover": 120,
+    "captions": {
+      "120": "Armour · fitted suit study",
+      "123": "Robo · segmented head"
+    },
+    "series": "Techsugi"
+  },
+  {
+    "slug": "cypher",
+    "title": "Cypher",
+    "title_status": "verified",
+    "category": "experiments",
+    "medium": "Algorithmic typography tool",
+    "description": "An algorithmic tool that automatically arranges and resizes text into dynamic layouts. Its letterforms adapt fluidly while preserving the continuity of their curves.",
+    "context": "Originally developed to conceal messages within symbolic art, Cypher explores how language can become a changing visual structure. A version for Baybayin is currently in development, extending this research into a different writing system.",
+    "alt": "Fluid letterforms arranged into a dense dynamic layout by Cypher",
+    "sources": [],
+    "videos": [
+      {
+        "src": "assets/techsugi/cypher.mp4",
+        "poster": "assets/techsugi/video-cypher-full.jpg",
+        "title": "Cypher · Dynamic Layouts",
+        "source": "techsugi/Cypher.mp4",
+        "duration_seconds": 181.25
+      }
+    ],
+    "images": [
+      115
+    ],
+    "cover": 115,
+    "captions": {
+      "115": "Cypher · adaptive letterforms and layout"
+    },
+    "series": "Techsugi",
+    "content_source": "Artist-supplied project notes, 14 November 2026"
+  },
+  {
+    "slug": "pattern-dance",
+    "title": "Philippine Weave AR",
+    "title_status": "verified",
+    "category": "experiments",
+    "medium": "Augmented reality · algorithmic weaving",
+    "description": "An augmented reality experiment that transforms live video into patterns inspired by traditional Philippine weaving. As people move in front of the camera, their presence becomes part of a continuously changing digital textile.",
+    "context": "The audience becomes an active part of the artwork. Faces, gestures, and movement become threads, bringing the people in the room into a shared, unfolding interpretation of Philippine culture.",
+    "alt": "A moving figure translated into coloured woven patterns in Philippine Weave AR",
+    "sources": [],
+    "videos": [
+      {
+        "src": "assets/techsugi/patterndance.mp4",
+        "poster": "assets/techsugi/video-patterndance-full.jpg",
+        "title": "Philippine Weave AR",
+        "source": "techsugi/patternDance.mp4",
+        "duration_seconds": 159.28
+      }
+    ],
+    "images": [
+      122
+    ],
+    "cover": 122,
+    "captions": {
+      "122": "Philippine Weave AR · a figure woven into the pattern"
+    },
+    "series": "Techsugi",
+    "content_source": "Artist-supplied project notes, 14 November 2026"
+  },
+  {
+    "slug": "rosa",
+    "title": "Rosa",
+    "title_status": "descriptive",
+    "category": "experiments",
+    "medium": "Digital motion studies",
+    "description": "Bright ribbons open and fold into a flower-like form. The shifting surfaces move between petal, fabric, and abstract sculpture.",
+    "context": "Named Rosa in the Techsugi archive, the motion study uses contrasting colour to make each curling surface legible as the form changes. The dark background isolates the changing silhouette.",
+    "alt": "Rosa by Patrick Cabral",
+    "sources": [],
+    "videos": [
+      {
+        "src": "assets/techsugi/rosa.mp4",
+        "poster": "assets/techsugi/video-rosa-full.jpg",
+        "title": "Rosa",
+        "source": "techsugi/rosa.mp4",
+        "duration_seconds": 66.37
+      }
+    ],
+    "images": [
+      124
+    ],
+    "cover": 124,
+    "captions": {
+      "124": "Rosa · folding colour study"
+    },
+    "series": "Techsugi"
   }
 ]
